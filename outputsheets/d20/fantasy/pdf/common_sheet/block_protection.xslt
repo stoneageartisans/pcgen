@@ -116,7 +116,7 @@
 						</xsl:call-template>
 						<fo:table-cell number-columns-spanned="6" text-align="center">
 							<fo:block font-size="6pt">
-								<!--<xsl:value-of select="special_properties"/><!--BigDoody - comment this line out to hide-->
+								<!--BigDoody <xsl:value-of select="special_properties"/> BigDoody-->
 							</fo:block>
 						</fo:table-cell>
 					</fo:table-row>

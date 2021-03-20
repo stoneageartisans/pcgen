@@ -184,7 +184,7 @@
 						</fo:table-row>
 <!-- Special Properties Now Span entire row -->
 						<!--Big Doody <fo:table-row>
-							<xsl:message>Test</xsl:message>
+											<xsl:message>Test</xsl:message>
 							<xsl:call-template name="attrib"><xsl:with-param name="attribute" select="concat('equipment.', $shade)"/></xsl:call-template>
 							<fo:table-cell number-columns-spanned="5">
 								<fo:block space-before.optimum="1pt" font-size="5pt">

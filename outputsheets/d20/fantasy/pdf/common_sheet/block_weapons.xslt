@@ -443,7 +443,7 @@
 						</fo:block>
 					</fo:table-cell>
 				</fo:table-row>
-			<xsl:choose><!--BigDoody - comment out this block to hide weapon special properties-->
+			<xsl:choose>
 				<xsl:when test="string-length(special_property) &gt; 0">	
 				<fo:table-row>
 											<xsl:message>Test</xsl:message>
@@ -465,7 +465,7 @@
 					</fo:table-cell>
 				</fo:table-row>
 				</xsl:when>
-			</xsl:choose><!--BigDoody - end comment-->
+			</xsl:choose>	
 		<!--	</xsl:when>		
 		</xsl:choose>-->
 				<xsl:if test="flurry_level &gt; 0">
@@ -910,9 +910,9 @@
 				<xsl:apply-templates select="flurry">
 					<xsl:with-param name="column_width" select="$column_width"/>
 				</xsl:apply-templates>
-				<xsl:apply-templates select="common" mode="special_properties"><!--BigDoody - comment out this block to hide weapon special properties-->
+				<xsl:apply-templates select="common" mode="special_properties">
 					<xsl:with-param name="column_width" select="$column_width"/>
-				</xsl:apply-templates><!--BigDoody - end comment-->
+				</xsl:apply-templates>
 			</xsl:if>
 		</xsl:for-each>
 		<xsl:if test="position() &gt;= $first_weapon">
