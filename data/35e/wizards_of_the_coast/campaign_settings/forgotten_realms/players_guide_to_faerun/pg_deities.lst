@@ -60,6 +60,7 @@ Shaundakul			DOMAINS:Air,Chaos,Portal,Protection,Trade,Travel|PREALIGN:TN,CG,CN,
 Shiallia			DOMAINS:Animal,Good,Plant,Renewal|PREALIGN:LG,NG,TN,CG					DESC:Shiallia ()				DEITYWEAP:Trident				ALIGN:NG	FACTSET:Pantheon|Faerun		SOURCEPAGE:p.	TYPE:Demigod
 Siamorphe			DOMAINS:Knowledge,Law,Nobility,Planning|PREALIGN:LG,LN,LE,TN				DESC:Siamorphe ()				DEITYWEAP:Mace (Light)			ALIGN:LN	FACTSET:Pantheon|Faerun		SOURCEPAGE:p.	TYPE:Demigod
 Silvanus			DOMAINS:Animal,Plant,Protection,Renewal,Water|PREALIGN:LN,NG,TN,NE,CN			DESC:Silvanus (M)				DEITYWEAP:Maul				ALIGN:TN	FACTSET:Pantheon|Faerun		SOURCEPAGE:p.251	SOURCELONG:Forgotten Realms Campaign System	SOURCESHORT:FRCS	TYPE:Greater
+Sseth			DOMAINS:Air,Animal,Chaos,Evil,Knowledge,Magic,Planning,Scalykind,Trickery|PREALIGN:NE,CN,CE	DESC:Sseth (M)				DEITYWEAP:Scimitar				ALIGN:CE	FACTSET:Pantheon|Faerun		SOURCEPAGE:p.	TYPE:Intermediate
 Sune				DOMAINS:Chaos,Charm,Good,Protection|PREALIGN:NG,CG,CN						DESC:Sune (F)				DEITYWEAP:Whip				ALIGN:CG	FACTSET:Pantheon|Faerun		SOURCEPAGE:p.251	SOURCELONG:Forgotten Realms Campaign System	SOURCESHORT:FRCS	TYPE:Greater
 Talona			DOMAINS:Chaos,Destruction,Evil,Suffering|PREALIGN:NE,CN,CE					DESC:Talona (F)				DEITYWEAP:Unarmed Strike		ALIGN:CE	FACTSET:Pantheon|Faerun		SOURCEPAGE:p.	TYPE:Lesser
 Talos				DOMAINS:Chaos,Destruction,Evil,Fire,Storm|PREALIGN:NE,CN,CE					DESC:Talos ()				DEITYWEAP:Longspear|Shortspear	ALIGN:CE	FACTSET:Pantheon|Faerun		SOURCEPAGE:p.252	SOURCELONG:Forgotten Realms Campaign System	SOURCESHORT:FRCS	TYPE:Greater
