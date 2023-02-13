@@ -1,0 +1,73 @@
+# CVS $Revision: $ $Author: $ -- Mon Feb 06 00:00:00 2023 -- formatted by stoneageartisans
+SOURCELONG:Living Greyhawk Gazetteer
+SOURCESHORT:LGG
+
+
+# Regional knowledge skills
+# Local knowledge is replaced by the various regional local knowledge
+# 5 ranks in a knowledge regional local skill gives you a +2 synergy in knowlege (Geography/history/nobility & royalty) and all other knowledge skills related to that region
+Knowledge (Adri Forest)									KEYSTAT:INT		USEUNTRAINED:NO		EXCLUSIVE:NO		TYPE:Intelligence.Knowledge.Region.Standard.Base.KnowledgeLocal	SERVESAS:SKILL|Knowledge (Local)		SOURCEPAGE:p.139
+Knowledge (Ahlissa)										KEYSTAT:INT		USEUNTRAINED:NO		EXCLUSIVE:NO		TYPE:Intelligence.Knowledge.Region.Standard.Base.KnowledgeLocal	SERVESAS:SKILL|Knowledge (Local)		SOURCEPAGE:p.21
+Knowledge (Amedio Jungle)								KEYSTAT:INT		USEUNTRAINED:NO		EXCLUSIVE:NO		TYPE:Intelligence.Knowledge.Region.Standard.Base.KnowledgeLocal	SERVESAS:SKILL|Knowledge (Local)		SOURCEPAGE:p.139
+Knowledge (Bandit Kingdoms)								KEYSTAT:INT		USEUNTRAINED:NO		EXCLUSIVE:NO		TYPE:Intelligence.Knowledge.Region.Standard.Base.KnowledgeLocal	SERVESAS:SKILL|Knowledge (Local)		SOURCEPAGE:p.25
+Knowledge (Bissel)										KEYSTAT:INT		USEUNTRAINED:NO		EXCLUSIVE:NO		TYPE:Intelligence.Knowledge.Region.Standard.Base.KnowledgeLocal	SERVESAS:SKILL|Knowledge (Local)		SOURCEPAGE:p.32
+Knowledge (Blackmoor)									KEYSTAT:INT		USEUNTRAINED:NO		EXCLUSIVE:NO		TYPE:Intelligence.Knowledge.Region.Standard.Base.KnowledgeLocal	SERVESAS:SKILL|Knowledge (Local)		SOURCEPAGE:p.33
+Knowledge (Bone March)									KEYSTAT:INT		USEUNTRAINED:NO		EXCLUSIVE:NO		TYPE:Intelligence.Knowledge.Region.Standard.Base.KnowledgeLocal	SERVESAS:SKILL|Knowledge (Local)		SOURCEPAGE:p.35
+Knowledge (Bright Lands)								KEYSTAT:INT		USEUNTRAINED:NO		EXCLUSIVE:NO		TYPE:Intelligence.Knowledge.Region.Standard.Base.KnowledgeLocal	SERVESAS:SKILL|Knowledge (Local)		SOURCEPAGE:p.37
+Knowledge (Celadon Forest)								KEYSTAT:INT		USEUNTRAINED:NO		EXCLUSIVE:NO		TYPE:Intelligence.Knowledge.Region.Standard.Base.KnowledgeLocal	SERVESAS:SKILL|Knowledge (Local)		SOURCEPAGE:p.139
+Knowledge (Celene)										KEYSTAT:INT		USEUNTRAINED:NO		EXCLUSIVE:NO		TYPE:Intelligence.Knowledge.Region.Standard.Base.KnowledgeLocal	SERVESAS:SKILL|Knowledge (Local)		SOURCEPAGE:p.38
+Knowledge (Crystalmist Mountains)						KEYSTAT:INT		USEUNTRAINED:NO		EXCLUSIVE:NO		TYPE:Intelligence.Knowledge.Region.Standard.Base.KnowledgeLocal	SERVESAS:SKILL|Knowledge (Local)		SOURCEPAGE:p.142
+Knowledge (Dyvers)										KEYSTAT:INT		USEUNTRAINED:NO		EXCLUSIVE:NO		TYPE:Intelligence.Knowledge.Region.Standard.Base.KnowledgeLocal	SERVESAS:SKILL|Knowledge (Local)		SOURCEPAGE:p.40
+Knowledge (Ekbir)										KEYSTAT:INT		USEUNTRAINED:NO		EXCLUSIVE:NO		TYPE:Intelligence.Knowledge.Region.Standard.Base.KnowledgeLocal	SERVESAS:SKILL|Knowledge (Local)		SOURCEPAGE:p.42
+Knowledge (Frost Barbarians)							KEYSTAT:INT		USEUNTRAINED:NO		EXCLUSIVE:NO		TYPE:Intelligence.Knowledge.Region.Standard.Base.KnowledgeLocal	SERVESAS:SKILL|Knowledge (Local)		SOURCEPAGE:p.43
+Knowledge (Furyondy)									KEYSTAT:INT		USEUNTRAINED:NO		EXCLUSIVE:NO		TYPE:Intelligence.Knowledge.Region.Standard.Base.KnowledgeLocal	SERVESAS:SKILL|Knowledge (Local)		SOURCEPAGE:p.45
+Knowledge (Gamboge Forest)								KEYSTAT:INT		USEUNTRAINED:NO		EXCLUSIVE:NO		TYPE:Intelligence.Knowledge.Region.Standard.Base.KnowledgeLocal	SERVESAS:SKILL|Knowledge (Local)		SOURCEPAGE:p.140
+Knowledge (Geoff)										KEYSTAT:INT		USEUNTRAINED:NO		EXCLUSIVE:NO		TYPE:Intelligence.Knowledge.Region.Standard.Base.KnowledgeLocal	SERVESAS:SKILL|Knowledge (Local)		SOURCEPAGE:p.47
+Knowledge (Glorioles)									KEYSTAT:INT		USEUNTRAINED:NO		EXCLUSIVE:NO		TYPE:Intelligence.Knowledge.Region.Standard.Base.KnowledgeLocal	SERVESAS:SKILL|Knowledge (Local)		SOURCEPAGE:p.142
+Knowledge (Gran March)									KEYSTAT:INT		USEUNTRAINED:NO		EXCLUSIVE:NO		TYPE:Intelligence.Knowledge.Region.Standard.Base.KnowledgeLocal	SERVESAS:SKILL|Knowledge (Local)		SOURCEPAGE:p.49
+Knowledge (Greyhawk)									KEYSTAT:INT		USEUNTRAINED:NO		EXCLUSIVE:NO		TYPE:Intelligence.Knowledge.Region.Standard.Base.KnowledgeLocal	SERVESAS:SKILL|Knowledge (Local)		SOURCEPAGE:p.51
+Knowledge (Highfolk)									KEYSTAT:INT		USEUNTRAINED:NO		EXCLUSIVE:NO		TYPE:Intelligence.Knowledge.Region.Standard.Base.KnowledgeLocal	SERVESAS:SKILL|Knowledge (Local)		SOURCEPAGE:p.52
+Knowledge (Ice Barbarians)								KEYSTAT:INT		USEUNTRAINED:NO		EXCLUSIVE:NO		TYPE:Intelligence.Knowledge.Region.Standard.Base.KnowledgeLocal	SERVESAS:SKILL|Knowledge (Local)		SOURCEPAGE:p.54
+Knowledge (Iron Hills)									KEYSTAT:INT		USEUNTRAINED:NO		EXCLUSIVE:NO		TYPE:Intelligence.Knowledge.Region.Standard.Base.KnowledgeLocal	SERVESAS:SKILL|Knowledge (Local)		SOURCEPAGE:p.145
+Knowledge (Irongate)									KEYSTAT:INT		USEUNTRAINED:NO		EXCLUSIVE:NO		TYPE:Intelligence.Knowledge.Region.Standard.Base.KnowledgeLocal	SERVESAS:SKILL|Knowledge (Local)		SOURCEPAGE:p.55
+Knowledge (Empire of Iuz)								KEYSTAT:INT		USEUNTRAINED:NO		EXCLUSIVE:NO		TYPE:Intelligence.Knowledge.Region.Standard.Base.KnowledgeLocal	SERVESAS:SKILL|Knowledge (Local)		SOURCEPAGE:p.58
+Knowledge (Keoland)										KEYSTAT:INT		USEUNTRAINED:NO		EXCLUSIVE:NO		TYPE:Intelligence.Knowledge.Region.Standard.Base.KnowledgeLocal	SERVESAS:SKILL|Knowledge (Local)		SOURCEPAGE:p.63
+Knowledge (Ket)											KEYSTAT:INT		USEUNTRAINED:NO		EXCLUSIVE:NO		TYPE:Intelligence.Knowledge.Region.Standard.Base.KnowledgeLocal	SERVESAS:SKILL|Knowledge (Local)		SOURCEPAGE:p.66
+Knowledge (Lendore Isles)								KEYSTAT:INT		USEUNTRAINED:NO		EXCLUSIVE:NO		TYPE:Intelligence.Knowledge.Region.Standard.Base.KnowledgeLocal	SERVESAS:SKILL|Knowledge (Local)		SOURCEPAGE:p.68
+Knowledge (Lordship of the Isles)						KEYSTAT:INT		USEUNTRAINED:NO		EXCLUSIVE:NO		TYPE:Intelligence.Knowledge.Region.Standard.Base.KnowledgeLocal	SERVESAS:SKILL|Knowledge (Local)		SOURCEPAGE:p.70
+Knowledge (Lortmil Mountains)							KEYSTAT:INT		USEUNTRAINED:NO		EXCLUSIVE:NO		TYPE:Intelligence.Knowledge.Region.Standard.Base.KnowledgeLocal	SERVESAS:SKILL|Knowledge (Local)		SOURCEPAGE:p.143
+Knowledge (North Kingdom)								KEYSTAT:INT		USEUNTRAINED:NO		EXCLUSIVE:NO		TYPE:Intelligence.Knowledge.Region.Standard.Base.KnowledgeLocal	SERVESAS:SKILL|Knowledge (Local)		SOURCEPAGE:p.72
+Knowledge (Nyrond)										KEYSTAT:INT		USEUNTRAINED:NO		EXCLUSIVE:NO		TYPE:Intelligence.Knowledge.Region.Standard.Base.KnowledgeLocal	SERVESAS:SKILL|Knowledge (Local)		SOURCEPAGE:p.74
+Knowledge (Onnwal)										KEYSTAT:INT		USEUNTRAINED:NO		EXCLUSIVE:NO		TYPE:Intelligence.Knowledge.Region.Standard.Base.KnowledgeLocal	SERVESAS:SKILL|Knowledge (Local)		SOURCEPAGE:p.79
+Knowledge (Theocracy of the Pale)						KEYSTAT:INT		USEUNTRAINED:NO		EXCLUSIVE:NO		TYPE:Intelligence.Knowledge.Region.Standard.Base.KnowledgeLocal	SERVESAS:SKILL|Knowledge (Local)		SOURCEPAGE:p.80
+Knowledge (Plains of the Paynims)						KEYSTAT:INT		USEUNTRAINED:NO		EXCLUSIVE:NO		TYPE:Intelligence.Knowledge.Region.Standard.Base.KnowledgeLocal	SERVESAS:SKILL|Knowledge (Local)		SOURCEPAGE:p.83
+Knowledge (Perrenland)									KEYSTAT:INT		USEUNTRAINED:NO		EXCLUSIVE:NO		TYPE:Intelligence.Knowledge.Region.Standard.Base.KnowledgeLocal	SERVESAS:SKILL|Knowledge (Local)		SOURCEPAGE:p.85
+Knowledge (Pomarj)										KEYSTAT:INT		USEUNTRAINED:NO		EXCLUSIVE:NO		TYPE:Intelligence.Knowledge.Region.Standard.Base.KnowledgeLocal	SERVESAS:SKILL|Knowledge (Local)		SOURCEPAGE:p.86
+Knowledge (Ratik)										KEYSTAT:INT		USEUNTRAINED:NO		EXCLUSIVE:NO		TYPE:Intelligence.Knowledge.Region.Standard.Base.KnowledgeLocal	SERVESAS:SKILL|Knowledge (Local)		SOURCEPAGE:p.88
+Knowledge (Rel Astra and the Solnor Compact)			KEYSTAT:INT		USEUNTRAINED:NO		EXCLUSIVE:NO		TYPE:Intelligence.Knowledge.Region.Standard.Base.KnowledgeLocal	SERVESAS:SKILL|Knowledge (Local)		SOURCEPAGE:p.91
+Knowledge (Rovers of the Barrens)						KEYSTAT:INT		USEUNTRAINED:NO		EXCLUSIVE:NO		TYPE:Intelligence.Knowledge.Region.Standard.Base.KnowledgeLocal	SERVESAS:SKILL|Knowledge (Local)		SOURCEPAGE:p.94
+Knowledge (Scarlet Brotherhood)							KEYSTAT:INT		USEUNTRAINED:NO		EXCLUSIVE:NO		TYPE:Intelligence.Knowledge.Region.Standard.Base.KnowledgeLocal	SERVESAS:SKILL|Knowledge (Local)		SOURCEPAGE:p.95
+Knowledge (Sea Barons)									KEYSTAT:INT		USEUNTRAINED:NO		EXCLUSIVE:NO		TYPE:Intelligence.Knowledge.Region.Standard.Base.KnowledgeLocal	SERVESAS:SKILL|Knowledge (Local)		SOURCEPAGE:p.98
+Knowledge (Sea Princes)									KEYSTAT:INT		USEUNTRAINED:NO		EXCLUSIVE:NO		TYPE:Intelligence.Knowledge.Region.Standard.Base.KnowledgeLocal	SERVESAS:SKILL|Knowledge (Local)		SOURCEPAGE:p.100
+Knowledge (Shield Lands)								KEYSTAT:INT		USEUNTRAINED:NO		EXCLUSIVE:NO		TYPE:Intelligence.Knowledge.Region.Standard.Base.KnowledgeLocal	SERVESAS:SKILL|Knowledge (Local)		SOURCEPAGE:p.102
+Knowledge (Snow Barbarians)								KEYSTAT:INT		USEUNTRAINED:NO		EXCLUSIVE:NO		TYPE:Intelligence.Knowledge.Region.Standard.Base.KnowledgeLocal	SERVESAS:SKILL|Knowledge (Local)		SOURCEPAGE:p.105
+Knowledge (Sterich)										KEYSTAT:INT		USEUNTRAINED:NO		EXCLUSIVE:NO		TYPE:Intelligence.Knowledge.Region.Standard.Base.KnowledgeLocal	SERVESAS:SKILL|Knowledge (Local)		SOURCEPAGE:p.106
+Knowledge (Stonehold)									KEYSTAT:INT		USEUNTRAINED:NO		EXCLUSIVE:NO		TYPE:Intelligence.Knowledge.Region.Standard.Base.KnowledgeLocal	SERVESAS:SKILL|Knowledge (Local)		SOURCEPAGE:p.108
+Knowledge (Sunndi)										KEYSTAT:INT		USEUNTRAINED:NO		EXCLUSIVE:NO		TYPE:Intelligence.Knowledge.Region.Standard.Base.KnowledgeLocal	SERVESAS:SKILL|Knowledge (Local)		SOURCEPAGE:p.110
+Knowledge (Tenh)										KEYSTAT:INT		USEUNTRAINED:NO		EXCLUSIVE:NO		TYPE:Intelligence.Knowledge.Region.Standard.Base.KnowledgeLocal	SERVESAS:SKILL|Knowledge (Local)		SOURCEPAGE:p.112
+Knowledge (Tiger Nomads)								KEYSTAT:INT		USEUNTRAINED:NO		EXCLUSIVE:NO		TYPE:Intelligence.Knowledge.Region.Standard.Base.KnowledgeLocal	SERVESAS:SKILL|Knowledge (Local)		SOURCEPAGE:p.114
+Knowledge (Tusmit)										KEYSTAT:INT		USEUNTRAINED:NO		EXCLUSIVE:NO		TYPE:Intelligence.Knowledge.Region.Standard.Base.KnowledgeLocal	SERVESAS:SKILL|Knowledge (Local)		SOURCEPAGE:p.115
+Knowledge (County of Ulek)								KEYSTAT:INT		USEUNTRAINED:NO		EXCLUSIVE:NO		TYPE:Intelligence.Knowledge.Region.Standard.Base.KnowledgeLocal	SERVESAS:SKILL|Knowledge (Local)		SOURCEPAGE:p.116
+Knowledge (Duchy of Ulek)								KEYSTAT:INT		USEUNTRAINED:NO		EXCLUSIVE:NO		TYPE:Intelligence.Knowledge.Region.Standard.Base.KnowledgeLocal	SERVESAS:SKILL|Knowledge (Local)		SOURCEPAGE:p.117
+Knowledge (Principality of Ulek)						KEYSTAT:INT		USEUNTRAINED:NO		EXCLUSIVE:NO		TYPE:Intelligence.Knowledge.Region.Standard.Base.KnowledgeLocal	SERVESAS:SKILL|Knowledge (Local)		SOURCEPAGE:p.119
+Knowledge (Ull)											KEYSTAT:INT		USEUNTRAINED:NO		EXCLUSIVE:NO		TYPE:Intelligence.Knowledge.Region.Standard.Base.KnowledgeLocal	SERVESAS:SKILL|Knowledge (Local)		SOURCEPAGE:p.122
+Knowledge (County of Urnst)								KEYSTAT:INT		USEUNTRAINED:NO		EXCLUSIVE:NO		TYPE:Intelligence.Knowledge.Region.Standard.Base.KnowledgeLocal	SERVESAS:SKILL|Knowledge (Local)		SOURCEPAGE:p.123
+Knowledge (Duchy of Urnst)								KEYSTAT:INT		USEUNTRAINED:NO		EXCLUSIVE:NO		TYPE:Intelligence.Knowledge.Region.Standard.Base.KnowledgeLocal	SERVESAS:SKILL|Knowledge (Local)		SOURCEPAGE:p.124
+Knowledge (Valley of the Mage)							KEYSTAT:INT		USEUNTRAINED:NO		EXCLUSIVE:NO		TYPE:Intelligence.Knowledge.Region.Standard.Base.KnowledgeLocal	SERVESAS:SKILL|Knowledge (Local)		SOURCEPAGE:p.126
+Knowledge (Veluna)										KEYSTAT:INT		USEUNTRAINED:NO		EXCLUSIVE:NO		TYPE:Intelligence.Knowledge.Region.Standard.Base.KnowledgeLocal	SERVESAS:SKILL|Knowledge (Local)		SOURCEPAGE:p.128
+Knowledge (Verbobonc)									KEYSTAT:INT		USEUNTRAINED:NO		EXCLUSIVE:NO		TYPE:Intelligence.Knowledge.Region.Standard.Base.KnowledgeLocal	SERVESAS:SKILL|Knowledge (Local)		SOURCEPAGE:p.131
+Knowledge (Vesve Forest)								KEYSTAT:INT		USEUNTRAINED:NO		EXCLUSIVE:NO		TYPE:Intelligence.Knowledge.Region.Standard.Base.KnowledgeLocal	SERVESAS:SKILL|Knowledge (Local)		SOURCEPAGE:p.142
+Knowledge (Wolf Nomads)									KEYSTAT:INT		USEUNTRAINED:NO		EXCLUSIVE:NO		TYPE:Intelligence.Knowledge.Region.Standard.Base.KnowledgeLocal	SERVESAS:SKILL|Knowledge (Local)		SOURCEPAGE:p.133
+Knowledge (Yeomanry)									KEYSTAT:INT		USEUNTRAINED:NO		EXCLUSIVE:NO		TYPE:Intelligence.Knowledge.Region.Standard.Base.KnowledgeLocal	SERVESAS:SKILL|Knowledge (Local)		SOURCEPAGE:p.134
+Knowledge (Zeif)										KEYSTAT:INT		USEUNTRAINED:NO		EXCLUSIVE:NO		TYPE:Intelligence.Knowledge.Region.Standard.Base.KnowledgeLocal	SERVESAS:SKILL|Knowledge (Local)		SOURCEPAGE:p.136
+###

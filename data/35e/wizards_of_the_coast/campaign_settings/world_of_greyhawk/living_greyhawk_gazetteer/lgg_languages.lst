@@ -1,0 +1,22 @@
+# CVS $Revision: $ $Author: $ -- Tue Feb 05 00:00:00 2023 -- formatted by stoneageartisans
+
+SOURCELONG:Living Greyhawk Gazetteer	SOURCESHORT:LGG	SOURCEDATE:2023-02
+
+# Language				Type
+Amedi					TYPE:Spoken.Written.Read
+Ancient Baklunish		TYPE:Spoken.Written.Read
+Cold Tongue				TYPE:Spoken.Written.Read
+Ferral					TYPE:Spoken.Written.Read
+Flan					TYPE:Spoken.Written.Read
+Keolandish				TYPE:Spoken.Written.Read
+Lendorian				TYPE:Spoken
+#Lendorian Elven		TYPE:Spoken.Written.Read # Removed until I can restrict by Race and Region
+Nyrondese				TYPE:Spoken.Written.Read
+Old Oeridian			TYPE:Spoken.Written.Read
+Olman					TYPE:Spoken.Written.Read
+Ordai					TYPE:Spoken.Written.Read
+Rhopan					TYPE:Spoken
+Ancient Suloise			TYPE:Spoken.Written.Read
+Ulagha					TYPE:Spoken.Written.Read
+Velondi					TYPE:Spoken
+

@@ -122,7 +122,7 @@ STARTPACK:PC Funds Lv 1	APPLY:INSTANT
 FUNDS:gp	QTY:10*roll("2d4")	PRECLASS:1,Druid=1
 FUNDS:gp	QTY:10*roll("3d4")	PRECLASS:1,Sorcerer=1,Wizard=1
 FUNDS:gp	QTY:10*roll("4d4")	PRECLASS:1,Barbarian=1,Bard=1
-FUNDS:gp	QTY:10*roll("5d4")	PRECLASS:1,Cleric=1
+FUNDS:gp	QTY:10*roll("5d4")	PRECLASS:1,Cleric=1,Rogue=1
 FUNDS:gp	QTY:10*roll("6d4")	PRECLASS:1,Fighter=1,Paladin=1,Ranger=1
 FUNDS:gp	QTY:roll("5d4")		PRECLASS:1,Monk=1
 
