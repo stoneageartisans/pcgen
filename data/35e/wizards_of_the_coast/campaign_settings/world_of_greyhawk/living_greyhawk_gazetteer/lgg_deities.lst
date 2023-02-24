@@ -1,199 +1,137 @@
-# CVS $Revision: $ $Author: $ -- Sun Feb 05 00:00:00 2023 -- formatted by stoneageartisans
+# CVS $Revision: $ $Author: $ -- Mon Feb 13 00:00:00 2023 -- formatted by stoneageartisans
 
-# FRCS page 9 notes some deities to be *replaced* with FRCS variants
-Boccob.MOD			DESC:Not FR Deity
-Ehlonna.MOD			DESC:Not FR Deity
-Erythnul.MOD			DESC:Not FR Deity
-Fharlanghn.MOD			DESC:Not FR Deity
-Heironeous.MOD			DESC:Not FR Deity
-Hextor.MOD			DESC:Not FR Deity
-Kord.MOD			DESC:Not FR Deity
-Nerull.MOD			DESC:Not FR Deity
-Obad-Hai.MOD			DESC:Not FR Deity
-Olidammara.MOD			DESC:Not FR Deity
-Pelor.MOD			DESC:Not FR Deity
-St. Cuthbert.MOD			DESC:Not FR Deity
-Vecna.MOD			DESC:Not FR Deity
-Wee Jas.MOD			DESC:Not FR Deity
-# some remain as-is: Correlon Larethian, Garl Glittergold, Gruumsh, Moradin, Yondalla
+SOURCELONG:Living Greyhawk Gazetteer		SOURCESHORT:LG		SOURCEDATE:2023-02
 
-# Deity Name		Domains													Description of Deity/Title		Deity Weapon				Align		Pantheon			Source Page		Type
-Akadi				DOMAINS:Air,Illusion,Travel,Trickery|PREALIGN:LN,NG,TN,NE,CN				DESC:Akadi (F)				DEITYWEAP:Flail (Heavy)			ALIGN:TN	FACTSET:Pantheon|Faerun		SOURCEPAGE:p.	TYPE:Greater
-Auril				DOMAINS:Air,Cold,Evil,Storm|PREALIGN:LE,TN,NE,CE						DESC:Auril ()				DEITYWEAP:Battleaxe			ALIGN:NE	FACTSET:Pantheon|Faerun		SOURCEPAGE:p.	TYPE:Lesser
-Azuth				DOMAINS:Illusion,Knowledge,Law,Magic,Spell|PREALIGN:LG,LN,LE,TN				DESC:Azuth (M)				DEITYWEAP:Quarterstaff			ALIGN:LN	FACTSET:Pantheon|Faerun		SOURCEPAGE:p.236	SOURCELONG:Forgotten Realms Campaign System	SOURCESHORT:FRCS	TYPE:Lesser
-Bane				DOMAINS:Destruction,Evil,Hatred,Law,Tyranny|PREALIGN:LN,LE,NE				DESC:Bane (M)				DEITYWEAP:Morningstar			ALIGN:LE	FACTSET:Pantheon|Faerun		SOURCEPAGE:p.237	SOURCELONG:Forgotten Realms Campaign System	SOURCESHORT:FRCS	TYPE:Intermediate
-Beshaba			DOMAINS:Chaos,Evil,Fate,Luck,Trickery|PREALIGN:NE,CN,CE					DESC:Beshaba ()				DEITYWEAP:Scourge				ALIGN:CE	FACTSET:Pantheon|Faerun		SOURCEPAGE:p.	TYPE:Intermediate
-Chauntea			DOMAINS:Animal,Earth,Good,Plant,Protection,Renewal|PREALIGN:LG,NG,TN,CG			DESC:Chauntea ()				DEITYWEAP:Scythe				ALIGN:NG	FACTSET:Pantheon|Faerun		SOURCEPAGE:p.238	SOURCELONG:Forgotten Realms Campaign System	SOURCESHORT:FRCS	TYPE:Greater
-Cyric				DOMAINS:Chaos,Destruction,Evil,Illusion,Trickery|PREALIGN:NE,CN,CE			DESC:Cyric (M)				DEITYWEAP:Longsword			ALIGN:CE	FACTSET:Pantheon|Faerun		SOURCEPAGE:p.239	SOURCELONG:Forgotten Realms Campaign System	SOURCESHORT:FRCS	TYPE:Greater
-Deneir			DOMAINS:Good,Knowledge,Protection,Rune|PREALIGN:LG,NG,TN,CG					DESC:Deneir ()				DEITYWEAP:Longsword			ALIGN:NG	FACTSET:Pantheon|Faerun		SOURCEPAGE:p.	TYPE:Lesser
-Eldath			DOMAINS:Family,Good,Plant,Protection,Water|PREALIGN:LG,NG,TN,CG				DESC:Eldath ()				DEITYWEAP:Net				ALIGN:NG	FACTSET:Pantheon|Faerun		SOURCEPAGE:p.	TYPE:Lesser
-Finder Wyvernspur		DOMAINS:Chaos,Charm,Renewal,Scalykind|PREALIGN:TN,CG,CN,CE					DESC:Finder Wyvernspur ()		DEITYWEAP:Sword (Bastard)		ALIGN:CN	FACTSET:Pantheon|Faerun		SOURCEPAGE:p.	TYPE:Demigod
-Garagos			DOMAINS:Chaos,Destruction,Strength,War|PREALIGN:TN,CG,CN,CE					DESC:Garagos ()				DEITYWEAP:Longsword			ALIGN:CN	FACTSET:Pantheon|Faerun		SOURCEPAGE:p.	TYPE:Demigod
-Gargauth			DOMAINS:Charm,Evil,Law,Trickery|PREALIGN:LN,LE,NE						DESC:Gargauth ()				DEITYWEAP:Dagger				ALIGN:LE	FACTSET:Pantheon|Faerun		SOURCEPAGE:p.	TYPE:Demigod
-Generic			DOMAINS:Air,Animal,Cavern,Chaos,Charm,Cold,Craft,Darkness,Death,Destruction,Drow,Dwarf,Earth,Elf,Evil,Family,Fate,Fire,Gnome,Good,Halfling,Hatred,Healing,Illusion,Knowledge,Law,Luck,Magic,Mentalism,Metal,Moon,Nobility,Ocean,Orc,Planning,Plant,Portal,Protection,Renewal,Repose,Retribution,Rune,Scalykind,Slime,Spell,Spider,Storm,Strength,Suffering,Sun,Time,Trade,Travel,Trickery,Tyranny,Undeath,War,Water|PREALIGN:LG,LN,LE,NG,TN,NE,CG,CN,CE						DESC:Generic ()				DEITYWEAP:Unarmed Strike				ALIGN:TN	FACTSET:Pantheon|Faerun		SOURCEPAGE:p.	TYPE:Greater
-Gond				DOMAINS:Craft,Earth,Fire,Knowledge,Metal,Planning|PREALIGN:LN,NG,TN,NE,CN		DESC:Gond ()				DEITYWEAP:Warhammer			ALIGN:TN	FACTSET:Pantheon|Faerun		SOURCEPAGE:p.241	SOURCELONG:Forgotten Realms Campaign System	SOURCESHORT:FRCS	TYPE:Intermediate
-Grumbar			DOMAINS:Cavern,Earth,Metal,Time|PREALIGN:LN,NG,TN,NE,CN					DESC:Grumbar ()				DEITYWEAP:Warhammer			ALIGN:TN	FACTSET:Pantheon|Faerun		SOURCEPAGE:p.	TYPE:Greater
-Gwaeron Windstorm		DOMAINS:Animal,Good,Knowledge,Plant,Travel|PREALIGN:LG,NG,TN,CG				DESC:Gwaeron Windstorm ()		DEITYWEAP:Greatsword			ALIGN:NG	FACTSET:Pantheon|Faerun		SOURCEPAGE:p.	TYPE:Demigod
-Helm				DOMAINS:Law,Planning,Protection,Strength|PREALIGN:LG,LN,LE,TN				DESC:Helm ()				DEITYWEAP:Sword (Bastard)		ALIGN:LN	FACTSET:Pantheon|Faerun		SOURCEPAGE:p.242	SOURCELONG:Forgotten Realms Campaign System	SOURCESHORT:FRCS	TYPE:Intermediate
-Hoar				DOMAINS:Fate,Law,Retribution,Travel|PREALIGN:LG,LN,LE,TN					DESC:Hoar ()				DEITYWEAP:Javelin				ALIGN:LN	FACTSET:Pantheon|Faerun		SOURCEPAGE:p.	TYPE:Demigod
-Ilmater			DOMAINS:Good,Healing,Law,Strength,Suffering|PREALIGN:LG,LN,NG				DESC:Ilmater ()				DEITYWEAP:Unarmed Strike		ALIGN:LG	FACTSET:Pantheon|Faerun		SOURCEPAGE:p.242	SOURCELONG:Forgotten Realms Campaign System	SOURCESHORT:FRCS	TYPE:Intermediate
-Istishia			DOMAINS:Destruction,Ocean,Storm,Travel,Water|PREALIGN:LN,NG,TN,NE,CN			DESC:Istishia ()				DEITYWEAP:Warhammer			ALIGN:TN	FACTSET:Pantheon|Faerun		SOURCEPAGE:p.	TYPE:Intermediate
-Jergal			DOMAINS:Fate,Law,Repose,Rune,Suffering|PREALIGN:LG,LN,LE,TN					DESC:Jergal ()				DEITYWEAP:Scythe				ALIGN:LN	FACTSET:Pantheon|Faerun		SOURCEPAGE:p.	TYPE:Demigod
-Kelemvor			DOMAINS:Fate,Law,Protection,Repose,Travel|PREALIGN:LG,LN,LE,TN				DESC:Kelemvor (M)				DEITYWEAP:Sword (Bastard)		ALIGN:LN	FACTSET:Pantheon|Faerun		SOURCEPAGE:p.243	SOURCELONG:Forgotten Realms Campaign System	SOURCESHORT:FRCS	TYPE:Greater
-Kossuth			DOMAINS:Destruction,Fire,Renewal,Suffering|PREALIGN:LG,LN,LE,NG,TN,NE,CN		DESC:Kossuth ()				DEITYWEAP:Chain (Spiked)		ALIGN:TN	FACTSET:Pantheon|Faerun		SOURCEPAGE:p.244	SOURCELONG:Forgotten Realms Campaign System	SOURCESHORT:FRCS	TYPE:Greater
-Lathander			DOMAINS:Good,Nobility,Protection,Renewal,Strength,Sun|PREALIGN:LG,NG,TN,CG		DESC:Lathander ()				DEITYWEAP:Mace (Light)|Mace (Heavy)	ALIGN:NG	FACTSET:Pantheon|Faerun		SOURCEPAGE:p.244	SOURCELONG:Forgotten Realms Campaign System	SOURCESHORT:FRCS	TYPE:Greater
-Lliira			DOMAINS:Chaos,Charm,Family,Good,Travel|PREALIGN:NG,CG,CN					DESC:Lliira ()				DEITYWEAP:Shuriken			ALIGN:CG	FACTSET:Pantheon|Faerun		SOURCEPAGE:p.	TYPE:Lesser
-Loviatar			DOMAINS:Evil,Law,Retribution,Strength,Suffering|PREALIGN:LN,LE,NE				DESC:Loviatar (F)				DEITYWEAP:Scourge				ALIGN:LE	FACTSET:Pantheon|Faerun		SOURCEPAGE:p.	TYPE:Lesser
-Lurue				DOMAINS:Animal,Chaos,Good,Healing|PREALIGN:NG,CG,CN						DESC:Lurue ()				DEITYWEAP:Shortspear			ALIGN:CG	FACTSET:Pantheon|Faerun		SOURCEPAGE:p.	TYPE:Demigod
-Malar				DOMAINS:Animal,Chaos,Evil,Moon,Strength|PREALIGN:NE,CN,CE					DESC:Malar ()				DEITYWEAP:Claw Bracer			ALIGN:CE	FACTSET:Pantheon|Faerun		SOURCEPAGE:p.245	SOURCELONG:Forgotten Realms Campaign System	SOURCESHORT:FRCS	TYPE:Lesser
-Mask				DOMAINS:Darkness,Evil,Luck,Trickery|PREALIGN:LE,TN,NE,CE					DESC:Mask ()				DEITYWEAP:Longsword			ALIGN:NE	FACTSET:Pantheon|Faerun		SOURCEPAGE:p.246	SOURCELONG:Forgotten Realms Campaign System	SOURCESHORT:FRCS	TYPE:Lesser
-Mielikki			DOMAINS:Animal,Good,Plant,Travel|PREALIGN:LG,NG,TN,CG						DESC:Mielikki ()				DEITYWEAP:Scimitar			ALIGN:NG	FACTSET:Pantheon|Faerun		SOURCEPAGE:p.246	SOURCELONG:Forgotten Realms Campaign System	SOURCESHORT:FRCS	TYPE:Intermediate
-Milil				DOMAINS:Charm,Good,Knowledge,Nobility|PREALIGN:LG,NG,TN,CG					DESC:Milil ()				DEITYWEAP:Rapier				ALIGN:NG	FACTSET:Pantheon|Faerun		SOURCEPAGE:p.	TYPE:Lesser
-Mystra			DOMAINS:Good,Illusion,Knowledge,Magic,Rune,Spell|PREALIGN:LG,LN,LE,NG,TN,CG		DESC:Mystra (F)				DEITYWEAP:Shuriken			ALIGN:NG	FACTSET:Pantheon|Faerun		SOURCEPAGE:p.247	SOURCELONG:Forgotten Realms Campaign System	SOURCESHORT:FRCS	TYPE:Greater
-Nobanion			DOMAINS:Animal,Good,Law,Nobility|PREALIGN:LG,LN,NG						DESC:Nobanion ()				DEITYWEAP:Pick (Heavy)			ALIGN:LG	FACTSET:Pantheon|Faerun		SOURCEPAGE:p.	TYPE:Demigod
-Oghma				DOMAINS:Charm,Knowledge,Luck,Travel,Trickery|PREALIGN:LN,NG,TN,NE,CN			DESC:Oghma ()				DEITYWEAP:Longsword			ALIGN:TN	FACTSET:Pantheon|Faerun		SOURCEPAGE:p.247	SOURCELONG:Forgotten Realms Campaign System	SOURCESHORT:FRCS	TYPE:Greater
-Red Knight			DOMAINS:Law,Nobility,Planning,War|PREALIGN:LG,LN,LE,TN					DESC:Red Knight (M)			DEITYWEAP:Longsword			ALIGN:LN	FACTSET:Pantheon|Faerun		SOURCEPAGE:p.	TYPE:Demigod
-Savras			DOMAINS:Fate,Knowledge,Law,Magic,Spell|PREALIGN:LG,LN,LE,TN					DESC:Savras ()				DEITYWEAP:Dagger				ALIGN:LN	FACTSET:Pantheon|Faerun		SOURCEPAGE:p.	TYPE:Demigod
-Selune			DOMAINS:Chaos,Good,Moon,Protection,Travel|PREALIGN:NG,CG,CN					DESC:Selune (F)				DEITYWEAP:Mace (Heavy)			ALIGN:CG	FACTSET:Pantheon|Faerun		SOURCEPAGE:p.248	SOURCELONG:Forgotten Realms Campaign System	SOURCESHORT:FRCS	TYPE:Intermediate
-Shar				DOMAINS:Cavern,Darkness,Evil,Knowledge|PREALIGN:LE,TN,NE,CE					DESC:Shar (F)				DEITYWEAP:Chakram				ALIGN:NE	FACTSET:Pantheon|Faerun		SOURCEPAGE:p.249	SOURCELONG:Forgotten Realms Campaign System	SOURCESHORT:FRCS	TYPE:Greater
-Sharess			DOMAINS:Chaos,Charm,Good,Travel,Trickery|PREALIGN:NG,CG,CN					DESC:Sharess ()				DEITYWEAP:Claw Bracer			ALIGN:CG	FACTSET:Pantheon|Faerun		SOURCEPAGE:p.	TYPE:Demigod
-Shaundakul			DOMAINS:Air,Chaos,Portal,Protection,Trade,Travel|PREALIGN:TN,CG,CN,CE			DESC:Shaundakul ()			DEITYWEAP:Greatsword			ALIGN:CN	FACTSET:Pantheon|Faerun		SOURCEPAGE:p.250	SOURCELONG:Forgotten Realms Campaign System	SOURCESHORT:FRCS	TYPE:Lesser
-Shiallia			DOMAINS:Animal,Good,Plant,Renewal|PREALIGN:LG,NG,TN,CG					DESC:Shiallia ()				DEITYWEAP:Trident				ALIGN:NG	FACTSET:Pantheon|Faerun		SOURCEPAGE:p.	TYPE:Demigod
-Siamorphe			DOMAINS:Knowledge,Law,Nobility,Planning|PREALIGN:LG,LN,LE,TN				DESC:Siamorphe ()				DEITYWEAP:Mace (Light)			ALIGN:LN	FACTSET:Pantheon|Faerun		SOURCEPAGE:p.	TYPE:Demigod
-Silvanus			DOMAINS:Animal,Plant,Protection,Renewal,Water|PREALIGN:LN,NG,TN,NE,CN			DESC:Silvanus (M)				DEITYWEAP:Maul				ALIGN:TN	FACTSET:Pantheon|Faerun		SOURCEPAGE:p.251	SOURCELONG:Forgotten Realms Campaign System	SOURCESHORT:FRCS	TYPE:Greater
-Sseth			DOMAINS:Air,Animal,Chaos,Evil,Knowledge,Magic,Planning,Scalykind,Trickery|PREALIGN:NE,CN,CE	DESC:Sseth (M)				DEITYWEAP:Scimitar				ALIGN:CE	FACTSET:Pantheon|Faerun		SOURCEPAGE:p.	TYPE:Intermediate
-Sune				DOMAINS:Chaos,Charm,Good,Protection|PREALIGN:NG,CG,CN						DESC:Sune (F)				DEITYWEAP:Whip				ALIGN:CG	FACTSET:Pantheon|Faerun		SOURCEPAGE:p.251	SOURCELONG:Forgotten Realms Campaign System	SOURCESHORT:FRCS	TYPE:Greater
-Talona			DOMAINS:Chaos,Destruction,Evil,Suffering|PREALIGN:NE,CN,CE					DESC:Talona (F)				DEITYWEAP:Unarmed Strike		ALIGN:CE	FACTSET:Pantheon|Faerun		SOURCEPAGE:p.	TYPE:Lesser
-Talos				DOMAINS:Chaos,Destruction,Evil,Fire,Storm|PREALIGN:NE,CN,CE					DESC:Talos ()				DEITYWEAP:Longspear|Shortspear	ALIGN:CE	FACTSET:Pantheon|Faerun		SOURCEPAGE:p.252	SOURCELONG:Forgotten Realms Campaign System	SOURCESHORT:FRCS	TYPE:Greater
-Tempus			DOMAINS:Chaos,Protection,Strength,War|PREALIGN:TN,CG,CN,CE					DESC:Tempus ()				DEITYWEAP:Battleaxe			ALIGN:CN	FACTSET:Pantheon|Faerun		SOURCEPAGE:p.252	SOURCELONG:Forgotten Realms Campaign System	SOURCESHORT:FRCS	TYPE:Greater
-Tiamat			DOMAINS:Evil,Law,Scalykind,Tyranny|PREALIGN:LN,LE,NE						DESC:Tiamat ()				DEITYWEAP:Pick (Heavy)			ALIGN:LE	FACTSET:Pantheon|Faerun		SOURCEPAGE:p.	TYPE:Lesser
-Torm				DOMAINS:Good,Healing,Law,Protection,Strength|PREALIGN:LG,LN,NG				DESC:Torm (M)				DEITYWEAP:Greatsword			ALIGN:LG	FACTSET:Pantheon|Faerun		SOURCEPAGE:p.253	SOURCELONG:Forgotten Realms Campaign System	SOURCESHORT:FRCS	TYPE:Lesser
-Tymora			DOMAINS:Chaos,Good,Luck,Protection,Travel|PREALIGN:NG,CG,CN					DESC:Tymora (F)				DEITYWEAP:Shuriken			ALIGN:CG	FACTSET:Pantheon|Faerun		SOURCEPAGE:p.253	SOURCELONG:Forgotten Realms Campaign System	SOURCESHORT:FRCS	TYPE:Intermediate
-Tyr				DOMAINS:Good,Knowledge,Law,Retribution,War|PREALIGN:LG,LN,NG				DESC:Tyr (M)				DEITYWEAP:Longsword			ALIGN:LG	FACTSET:Pantheon|Faerun		SOURCEPAGE:p.253	SOURCELONG:Forgotten Realms Campaign System	SOURCESHORT:FRCS	TYPE:Greater
-Ubtao				DOMAINS:Planning,Plant,Protection,Scalykind|PREALIGN:LN,NG,TN,NE,CN			DESC:Ubtao ()				DEITYWEAP:Pick (Heavy)			ALIGN:TN	FACTSET:Pantheon|Faerun		SOURCEPAGE:p.	TYPE:Greater
-Ulutiu			DOMAINS:Animal,Cold,Law,Ocean,Protection|PREALIGN:LG,LN,LE,TN				DESC:Ulutiu ()				DEITYWEAP:Longspear|Shortspear	ALIGN:LN	FACTSET:Pantheon|Faerun		SOURCEPAGE:p.	TYPE:Demigod
-Umberlee			DOMAINS:Chaos,Destruction,Evil,Ocean,Storm,Weather|PREALIGN:NE,CN,CE			DESC:Umberlee (F)				DEITYWEAP:Trident				ALIGN:CE	FACTSET:Pantheon|Faerun		SOURCEPAGE:p.254	SOURCELONG:Forgotten Realms Campaign System	SOURCESHORT:FRCS	TYPE:Intermediate
-Uthgar			DOMAINS:Animal,Chaos,Retribution,Strength,War|PREALIGN:TN,CG,CN,CE			DESC:Uthgar ()				DEITYWEAP:Battleaxe			ALIGN:CN	FACTSET:Pantheon|Faerun		SOURCEPAGE:p.254	SOURCELONG:Forgotten Realms Campaign System	SOURCESHORT:FRCS	TYPE:Demigod
-Valkur			DOMAINS:Air,Chaos,Good,Ocean,Protection|PREALIGN:NG,CG,CN					DESC:Valkur ()				DEITYWEAP:Cutlass				ALIGN:CG	FACTSET:Pantheon|Faerun		SOURCEPAGE:p.	TYPE:Demigod
-Velsharoon			DOMAINS:Death,Evil,Magic,Undeath|PREALIGN:LE,TN,NE,CE						DESC:Velsharoon (M)			DEITYWEAP:Quarterstaff			ALIGN:NE	FACTSET:Pantheon|Faerun		SOURCEPAGE:p.	TYPE:Demigod
-Waukeen			DOMAINS:Knowledge,Protection,Trade,Travel|PREALIGN:LN,NG,TN,NE,CN				DESC:Waukeen (F)				DEITYWEAP:Nunchaku			ALIGN:TN	FACTSET:Pantheon|Faerun		SOURCEPAGE:p.255	SOURCELONG:Forgotten Realms Campaign System	SOURCESHORT:FRCS	TYPE:Lesser
-#
-Anhur				DOMAINS:Chaos,Good,Storm,Strength,War|PREALIGN:NG,CG,CN					DESC:Anhur ()				DEITYWEAP:Falchion			ALIGN:CG	FACTSET:Pantheon|Mulhorandi	SOURCEPAGE:p.	TYPE:Lesser
-Geb				DOMAINS:Cavern,Craft,Earth,Protection|PREALIGN:LN,NG,TN,NE,CN				DESC:Geb ()					DEITYWEAP:Quarterstaff			ALIGN:TN	FACTSET:Pantheon|Mulhorandi	SOURCEPAGE:p.	TYPE:Lesser
-Hathor			DOMAINS:Family,Fate,Good,Moon|PREALIGN:LG,NG,TN,CG						DESC:Hathor ()				DEITYWEAP:Sword (Short)			ALIGN:NG	FACTSET:Pantheon|Mulhorandi	SOURCEPAGE:p.	TYPE:Lesser
-Horus-Re			DOMAINS:Good,Law,Nobility,Retribution,Sun|PREALIGN:LG,LN,NG					DESC:Horus-Re (M)				DEITYWEAP:Khopesh				ALIGN:LG	FACTSET:Pantheon|Mulhorandi	SOURCEPAGE:p.	TYPE:Greater
-Isis				DOMAINS:Family,Good,Magic,Storm,Water|PREALIGN:LG,NG,TN,CG					DESC:Isis (F)				DEITYWEAP:Dagger (Punching)		ALIGN:NG	FACTSET:Pantheon|Mulhorandi	SOURCEPAGE:p.	TYPE:Intermediate
-Nephthys			DOMAINS:Chaos,Good,Protection,Trade|PREALIGN:NG,CG,CN						DESC:Nephthys (F)				DEITYWEAP:Whip				ALIGN:CG	FACTSET:Pantheon|Mulhorandi	SOURCEPAGE:p.	TYPE:Intermediate
-Osiris			DOMAINS:Good,Law,Plant,Repose,Retribution|PREALIGN:LG,LN,NG					DESC:Osiris (M)				DEITYWEAP:Flail|Flail (Heavy)		ALIGN:LG	FACTSET:Pantheon|Mulhorandi	SOURCEPAGE:p.	TYPE:Intermediate
-Sebek				DOMAINS:Animal,Evil,Scalykind,Water|PREALIGN:LE,TN,NE,CE					DESC:Sebek ()				DEITYWEAP:Longspear|Shortspear	ALIGN:NE	FACTSET:Pantheon|Mulhorandi	SOURCEPAGE:p.	TYPE:Demigod
-Set				DOMAINS:Air,Darkness,Evil,Hatred,Law,Magic,Scalykind|PREALIGN:LN,LE,NE			DESC:Set (M)				DEITYWEAP:Longspear|Shortspear	ALIGN:LE	FACTSET:Pantheon|Mulhorandi	SOURCEPAGE:p.	TYPE:Intermediate
-Thoth				DOMAINS:Craft,Knowledge,Magic,Rune,Spell|PREALIGN:LN,NG,TN,NE,CN				DESC:Thoth ()				DEITYWEAP:Quarterstaff			ALIGN:TN	FACTSET:Pantheon|Mulhorandi	SOURCEPAGE:p.	TYPE:Intermediate
-#
-Corellon Larethian.MOD	DOMAINS:Elf|PREALIGN:NG,CG,CN
-Eilistraee			DOMAINS:Chaos,Charm,Drow,Elf,Good,Moon,Portal|PREALIGN:NG,CG,CN				DESC:Eilistraee (F)			DEITYWEAP:Sword (Bastard)		ALIGN:CG	FACTSET:Pantheon|Drow		SOURCEPAGE:p.240	SOURCELONG:Forgotten Realms Campaign System	SOURCESHORT:FRCS	TYPE:Lesser
-Ghaunadaur			DOMAINS:Cavern,Chaos,Drow,Evil,Hatred,Slime|PREALIGN:NE,CN,CE				DESC:Ghaunadaur ()			DEITYWEAP:Warhammer			ALIGN:CE	FACTSET:Pantheon|Drow		SOURCEPAGE:p.	TYPE:Lesser
-Kiaransalee			DOMAINS:Chaos,Drow,Evil,Retribution,Undeath|PREALIGN:NE,CN,CE				DESC:Kiaransalee (F)			DEITYWEAP:Dagger				ALIGN:CE	FACTSET:Pantheon|Drow		SOURCEPAGE:p.	TYPE:Demigod
-Lolth			DOMAINS:Chaos,Darkness,Destruction,Drow,Evil,Spider,Trickery|PREALIGN:NE,CN,CE	DESC:Llolth (F)				DEITYWEAP:Dagger				ALIGN:CE	FACTSET:Pantheon|Drow		SOURCEPAGE:p.245	SOURCELONG:Forgotten Realms Campaign System	SOURCESHORT:FRCS	TYPE:Intermediate
-Selvetarm			DOMAINS:Chaos,Drow,Evil,Spider,War|PREALIGN:NE,CN,CE						DESC:Selvetarm (M)			DEITYWEAP:Mace (Heavy)			ALIGN:CE	FACTSET:Pantheon|Drow		SOURCEPAGE:p.	TYPE:Demigod
-Vhaeraun			DOMAINS:Chaos,Drow,Evil,Travel,Trickery|PREALIGN:NE,CN,CE					DESC:Vhaeraun (M)				DEITYWEAP:Sword (Short)			ALIGN:CE	FACTSET:Pantheon|Drow		SOURCEPAGE:p.	TYPE:Lesser
-#
-Abbathor			DOMAINS:Dwarf,Evil,Luck,Trade,Trickery|PREALIGN:LE,TN,NE,CE					DESC:Abbathor ()				DEITYWEAP:Dagger				ALIGN:NE	FACTSET:Pantheon|Dwarven		SOURCEPAGE:p.	TYPE:Intermediate
-Berronar Truesilver	DOMAINS:Dwarf,Family,Good,Healing,Law,Protection|PREALIGN:LG,LN,NG			DESC:Berronar Truesilver ()		DEITYWEAP:Mace (Heavy)			ALIGN:LG	FACTSET:Pantheon|Dwarven		SOURCEPAGE:p.	TYPE:Intermediate
-Clangeddin Silverbeard	DOMAINS:Dwarf,Good,Law,Strength,War|PREALIGN:LG,LN,CG						DESC:Clangeddin Silverbeard ()	DEITYWEAP:Battleaxe			ALIGN:LG	FACTSET:Pantheon|Dwarven		SOURCEPAGE:p.	TYPE:Intermediate
-Deep Duerra			DOMAINS:Dwarf,Evil,Law,Mentalism,War|PREALIGN:LN,LE,NE					DESC:Deep Duerra ()			DEITYWEAP:Battleaxe			ALIGN:LE	FACTSET:Pantheon|Dwarven		SOURCEPAGE:p.	TYPE:Demigod
-Dugmaren Brightmantle	DOMAINS:Chaos,Craft,Dwarf,Good,Knowledge,Rune|PREALIGN:NG,CG,CN				DESC:Dugmaren Brightmantle ()		DEITYWEAP:Sword (Short)			ALIGN:CG	FACTSET:Pantheon|Dwarven		SOURCEPAGE:p.	TYPE:Lesser
-Dumathoin			DOMAINS:Cavern,Craft,Dwarf,Earth,Knowledge,Metal,Protection|PREALIGN:LN,NG,TN,NE,CN	DESC:Dumathoin (M)			DEITYWEAP:Maul				ALIGN:TN	FACTSET:Pantheon|Dwarven		SOURCEPAGE:p.	TYPE:Intermediate
-Gorm Gulthyn		DOMAINS:Dwarf,Good,Law,Protection,War|PREALIGN:LG,LN,NG					DESC:Gorm Gulthyn ()			DEITYWEAP:Battleaxe			ALIGN:LG	FACTSET:Pantheon|Dwarven		SOURCEPAGE:p.	TYPE:Lesser
-Haela Brightaxe		DOMAINS:Chaos,Dwarf,Good,Luck,War|PREALIGN:NG,CG,CN						DESC:Haela Brightaxe ()			DEITYWEAP:Greatsword			ALIGN:CG	FACTSET:Pantheon|Dwarven		SOURCEPAGE:p.	TYPE:Demigod
-Laduguer		DOMAINS:Craft,Dwarf,Evil,Law,Magic,Metal,Protection|PREALIGN:LN,LE,NE			DESC:Laduguer (M)				DEITYWEAP:Warhammer			ALIGN:NG	FACTSET:Pantheon|Dwarven		SOURCEPAGE:p.	TYPE:Intermediate
-Marthammor Duin		DOMAINS:Dwarf,Good,Protection,Travel|PREALIGN:LG,NG,TN,CG					DESC:Marthammor Duin ()			DEITYWEAP:Mace (Heavy)			ALIGN:NG	FACTSET:Pantheon|Dwarven		SOURCEPAGE:p.238	SOURCELONG:Forgotten Realms Campaign System	SOURCESHORT:FRCS	TYPE:Lesser
-Moradin		DOMAINS:Craft,Dwarf,Earth,Good,Law,Protection|PREALIGN:LG,LN,NG				DESC:Moradin (M)				DEITYWEAP:Warhammer			ALIGN:LG	FACTSET:Pantheon|Dwarven		SOURCEPAGE:p.	TYPE:Greater
-Sharindlar			DOMAINS:Chaos,Charm,Dwarf,Good,Healing,Moon|PREALIGN:NG,CG,CN				DESC:Sharindlar ()			DEITYWEAP:Whip				ALIGN:CG	FACTSET:Pantheon|Dwarven		SOURCEPAGE:p.	TYPE:Intermediate
-Thard Harr			DOMAINS:Animal,Chaos,Dwarf,Good,Plant|PREALIGN:NG,CG,CN					DESC:Thard Harr ()			DEITYWEAP:Gauntlet (Spiked)		ALIGN:CG	FACTSET:Pantheon|Dwarven		SOURCEPAGE:p.	TYPE:Lesser
-Vergadain			DOMAINS:Dwarf,Luck,Trade,Trickery|PREALIGN:LN,NG,TN,NE,CN					DESC:Vergadain ()				DEITYWEAP:Longsword			ALIGN:TN	FACTSET:Pantheon|Dwarven		SOURCEPAGE:p.	TYPE:Intermediate
-#
-Aerdrie Faenya		DOMAINS:Air,Animal,Chaos,Elf,Good,Storm|PREALIGN:NG,CG,CN					DESC:Aerdrie Faenya (F)			DEITYWEAP:Quarterstaff			ALIGN:CG	FACTSET:Pantheon|Elf		SOURCEPAGE:p.	TYPE:Intermediate
-Angharradh			DOMAINS:Chaos,Elf,Good,Knowledge,Plant,Protection,Renewal|PREALIGN:NG,CG,CN		DESC:Angharradh ()			DEITYWEAP:Longspear|Shortspear	ALIGN:CG	FACTSET:Pantheon|Elf		SOURCEPAGE:p.	TYPE:Greater
-Corellon Larethian	DOMAINS:Chaos,Elf,Good,Magic,Protection,War|PREALIGN:NG,CG,CN				DESC:Corellon Larethian (M)		DEITYWEAP:Longsword			ALIGN:CG	FACTSET:Pantheon|Elf		SOURCEPAGE:p.	TYPE:Greater
-Deep Sashelas	DOMAINS:Chaos,Elf,Good,Knowledge,Ocean,Water|PREALIGN:NG,CG,CN				DESC:Deep Sashelas ()			DEITYWEAP:Trident				ALIGN:CG	FACTSET:Pantheon|Elf		SOURCEPAGE:p.	TYPE:Intermediate
-Erevan Ilesere		DOMAINS:Chaos,Elf,Luck,Trickery|PREALIGN:TN,CG,CN,CE						DESC:Erevan Ilesere ()			DEITYWEAP:Sword (Short)			ALIGN:CN	FACTSET:Pantheon|Elf		SOURCEPAGE:p.	TYPE:Intermediate
-Fenmarel Mestarine	DOMAINS:Animal,Chaos,Elf,Plant,Travel|PREALIGN:TN,CG,CN,CE					DESC:Fenmarel Mestarine ()		DEITYWEAP:Dagger				ALIGN:CN	FACTSET:Pantheon|Elf		SOURCEPAGE:p.	TYPE:Lesser
-Hanali Celanil		DOMAINS:Chaos,Charm,Elf,Good,Magic,Protection|PREALIGN:NG,CG,CN				DESC:Hanali Celanil ()			DEITYWEAP:Dagger				ALIGN:CG	FACTSET:Pantheon|Elf		SOURCEPAGE:p.	TYPE:Intermediate
-Labelas Enoreth		DOMAINS:Chaos,Elf,Good,Knowledge,Time|PREALIGN:NG,CG,CN					DESC:Labelas Enoreth ()			DEITYWEAP:Quarterstaff			ALIGN:CG	FACTSET:Pantheon|Elf		SOURCEPAGE:p.	TYPE:Intermediate
-Rillifane Rallathil	DOMAINS:Chaos,Elf,Good,Plant,Protection|PREALIGN:NG,CG,CN					DESC:Rillifane Rallathil ()		DEITYWEAP:Quarterstaff			ALIGN:CG	FACTSET:Pantheon|Elf		SOURCEPAGE:p.	TYPE:Intermediate
-Sehanine Moonbow		DOMAINS:Chaos,Elf,Good,Illusion,Knowledge,Moon,Travel|PREALIGN:NG,CG,CN			DESC:Sehanine Moonbow (F)		DEITYWEAP:Quarterstaff			ALIGN:CG	FACTSET:Pantheon|Elf		SOURCEPAGE:p.	TYPE:Intermediate
-Shevarash			DOMAINS:Chaos,Elf,Retribution,War|PREALIGN:TN,CG,CN,CE					DESC:Shevarash ()				DEITYWEAP:Longbow				ALIGN:CN	FACTSET:Pantheon|Elf		SOURCEPAGE:p.	TYPE:Demigod
-Solonor Thelandira	DOMAINS:Chaos,Elf,Good,Plant,War|PREALIGN:NG,CG,CN						DESC:Solonor Thelandira ()		DEITYWEAP:Longbow				ALIGN:CG	FACTSET:Pantheon|Elf		SOURCEPAGE:p.	TYPE:Intermediate
-#
-Baervan Wildwanderer	DOMAINS:Animal,Gnome,Good,Plant,Travel|PREALIGN:LG,NG,TN,CG					DESC:Baervan Wildwanderer ()		DEITYWEAP:Shortspear			ALIGN:NG	FACTSET:Pantheon|Gnome		SOURCEPAGE:p.	TYPE:Intermediate
-Baravar Cloakshadow	DOMAINS:Gnome,Good,Illusion,Protection,Trickery|PREALIGN:LG,NG,TN,CG			DESC:Baravar Cloakshadow ()		DEITYWEAP:Dagger				ALIGN:NG	FACTSET:Pantheon|Gnome		SOURCEPAGE:p.	TYPE:Lesser
-Calladuran Smoothhands	DOMAINS:Cavern,Craft,Earth,Gnome|PREALIGN:LN,NG,TN,NE,CN					DESC:Calladuran Smoothhands ()	DEITYWEAP:Dagger				ALIGN:TN	FACTSET:Pantheon|Gnome		SOURCEPAGE:p.	TYPE:Intermediate
-Flandal Steelskin		DOMAINS:Craft,Gnome,Good,Metal|PREALIGN:LG,NG,TN,CG						DESC:Flandal Steelskin ()		DEITYWEAP:Warhammer			ALIGN:NG	FACTSET:Pantheon|Gnome		SOURCEPAGE:p.	TYPE:Intermediate
-Gaerdal Ironhand		DOMAINS:Gnome,Good,Law,Protection,War|PREALIGN:LG,LN,NG					DESC:Gaerdal Ironhand ()		DEITYWEAP:Warhammer			ALIGN:LG	FACTSET:Pantheon|Gnome		SOURCEPAGE:p.	TYPE:Lesser
-Garl Glittergold	DOMAINS:Craft,Gnome,Good,Law,Protection,Trickery|PREALIGN:LG,LN,NG			DESC:Garl Glittergold (M)		DEITYWEAP:Battleaxe			ALIGN:LG	FACTSET:Pantheon|Gnome		SOURCEPAGE:p.	TYPE:Greater
-Segojan Earthcaller	DOMAINS:Cavern,Earth,Gnome,Good|PREALIGN:LG,NG,TN,CG						DESC:Segojan Earthcaller ()		DEITYWEAP:Mace (Heavy)			ALIGN:NG	FACTSET:Pantheon|Gnome		SOURCEPAGE:p.	TYPE:Intermediate
-Urdlen			DOMAINS:Chaos,Earth,Evil,Gnome,Hatred|PREALIGN:NE,CN,CE					DESC:Urdlen ()				DEITYWEAP:Claw Bracer			ALIGN:CE	FACTSET:Pantheon|Gnome		SOURCEPAGE:p.	TYPE:Intermediate
-#
-Arvoreen			DOMAINS:Good,Halfling,Law,Protection,War|PREALIGN:LG,LN,NG					DESC:Arvoreen ()				DEITYWEAP:Sword (Short)			ALIGN:LG	FACTSET:Pantheon|Halfling		SOURCEPAGE:p.	TYPE:Intermediate
-Brandobaris			DOMAINS:Halfling,Luck,Travel,Trickery|PREALIGN:LN,NG,TN,NE,CN				DESC:Brandobaris ()			DEITYWEAP:Dagger				ALIGN:TN	FACTSET:Pantheon|Halfling		SOURCEPAGE:p.	TYPE:Lesser
-Cyrrollalee			DOMAINS:Family,Good,Halfling,Law|PREALIGN:LG,LN,NG						DESC:Cyrrollalee ()			DEITYWEAP:Quarterstaff|Club		ALIGN:LG	FACTSET:Pantheon|Halfling		SOURCEPAGE:p.	TYPE:Intermediate
-Sheela Peryroyl		DOMAINS:Air,Charm,Halfling,Plant|PREALIGN:LN,NG,TN,NE,CN					DESC:Sheela Peryroyl ()			DEITYWEAP:Sickle				ALIGN:TN	FACTSET:Pantheon|Halfling		SOURCEPAGE:p.	TYPE:Intermediate
-Urogalan			DOMAINS:Earth,Halfling,Law,Protection,Repose|PREALIGN:LG,LN,LE,TN				DESC:Urogalan ()				DEITYWEAP:Flail (Dire)			ALIGN:LN	FACTSET:Pantheon|Halfling		SOURCEPAGE:p.	TYPE:Demigod
-Yondalla		DOMAINS:Family,Good,Halfling,Law,Protection|PREALIGN:LG,LN,NG				DESC:Yondalla (F)				DEITYWEAP:Sword (Short)			ALIGN:LG	FACTSET:Pantheon|Halfling		SOURCEPAGE:p.	TYPE:Greater
-#
-Baghtru			DOMAINS:Chaos,Evil,Orc,Strength|PREALIGN:NE,CN,CE						DESC:Baghtru ()				DEITYWEAP:Gauntlet (Spiked)		ALIGN:CE	FACTSET:Pantheon|Orc		SOURCEPAGE:p.	TYPE:Lesser
-Gruumsh		DOMAINS:Cavern,Chaos,Evil,Hatred,Orc,Strength,War|PREALIGN:NE,CN,CE			DESC:Gruumsh (M)				DEITYWEAP:Longspear|Shortspear	ALIGN:CE	FACTSET:Pantheon|Orc		SOURCEPAGE:p.	TYPE:Greater
-Ilneval			DOMAINS:Destruction,Evil,Orc,Planning,War|PREALIGN:LE,TN,NE,CE				DESC:Ilneval ()				DEITYWEAP:Longsword			ALIGN:CE	FACTSET:Pantheon|Orc		SOURCEPAGE:p.	TYPE:Lesser
-Luthic			DOMAINS:Cavern,Earth,Evil,Family,Healing,Orc|PREALIGN:LE,TN,NE,CE				DESC:Luthic ()				DEITYWEAP:Claw Bracer			ALIGN:NE	FACTSET:Pantheon|Orc		SOURCEPAGE:p.	TYPE:Lesser
-Shargaas			DOMAINS:Chaos,Darkness,Evil,Orc,Trickery|PREALIGN:NE,CN,CE					DESC:Shargaas ()				DEITYWEAP:Sword (Short)			ALIGN:CE	FACTSET:Pantheon|Orc		SOURCEPAGE:p.	TYPE:Lesser
-Yurtrus			DOMAINS:Death,Destruction,Evil,Orc,Suffering|PREALIGN:LE,TN,NE,CE				DESC:Yurtrus ()				DEITYWEAP:Unarmed Strike		ALIGN:NE	FACTSET:Pantheon|Orc		SOURCEPAGE:p.	TYPE:Lesser
+# *** BEGIN - Deities from Living Greyhawk Gazetteer ***
+#Deity Name			Unique Key				Domains																	Deity Weapon													Align			Pantheon						Source Page				Type					Description
+Al'Akbar			KEY:Al'Akbar			DOMAINS:Good,Healing,Law,Protection|PREALIGN:LG,LN,NG					DEITYWEAP:Falchion												ALIGN:LG		FACTSET:Pantheon|Baklunish 		SOURCEPAGE:p.164		TYPE:Demigod			DESC:Al'Akbar (ahl AHK-bar) ~ Male ~ High Cleric, Restorer of Righteousness   <b>Portfolio:</b> Guardianship, Faithfulness, Dignity, and Duty
+Allitur				KEY:Allitur				DOMAINS:Good,Knowledge,Law|PREALIGN:LG,LN,NG							DEITYWEAP:Shortspear											ALIGN:LG		FACTSET:Pantheon|Flan			SOURCEPAGE:p.165		TYPE:Lesser				DESC:Allitur (AH-lih-toor) ~ Male   <b>Portfolio:</b> Ethics and Propriety
+Atroa				KEY:Atroa				DOMAINS:Air,Good,Plant,Sun|PREALIGN:LG,NG,TN,CG							DEITYWEAP:Sling													ALIGN:NG		FACTSET:Pantheon|Oeridian		SOURCEPAGE:p.165		TYPE:Lesser				DESC:Atroa (ah-TROH-ah) ~ Female ~ The Sad Maiden   <b>Portfolio:</b> Spring, East Wind, and Renewal
+Beltar				KEY:Beltar				DOMAINS:Chaos,Earth,Evil,War|PREALIGN:NE,CN,CE							DEITYWEAP:Strike (Unarmed)|Gauntlet (Spiked)|Claw Bracer		ALIGN:CE		FACTSET:Pantheon|Suel			SOURCEPAGE:p.166		TYPE:Lesser				DESC:Beltar (BEL-tar) ~ Female ~ The Dark Mother   <b>Portfolio:</b> Malice, Caves, and Pits
+Beory				KEY:Beory				DOMAINS:Animal,Earth,Plant,Water|PREALIGN:LN,NG,TN,CN					DEITYWEAP:Club													ALIGN:TN		FACTSET:Pantheon|Flan			SOURCEPAGE:p.166		TYPE:Greater			DESC:Beory (bay-OH-ree) ~ Female ~ Oerth Mother   <b>Portfolio:</b> Oerth, Nature and Rain
+Berei				KEY:Berei				DOMAINS:Good,Plant,Protection|PREALIGN:LG,NG,TN,CG						DEITYWEAP:Sickle												ALIGN:NG		FACTSET:Pantheon|Flan			SOURCEPAGE:p.167		TYPE:Lesser				DESC:Berei (BEAR-ay) ~ Female ~ Hearth Mother   <b>Portfolio:</b> Home, Family, and Agriculture
+Bleredd				KEY:Bleredd				DOMAINS:Earth,Fire,Strength|PREALIGN:LN,NG,TN,NE,CN						DEITYWEAP:Warhammer												ALIGN:TN		FACTSET:Pantheon|Oeridian		SOURCEPAGE:p.167		TYPE:Lesser				DESC:Bleredd (BLAIR-ed) ~ Male ~ The Iron Mule   <b>Portfolio:</b> Metal, Mines, and Smiths
+Boccob				KEY:Boccob				DOMAINS:Knowledge,Magic,Trickery|PREALIGN:LN,NG,TN,NE,CN				DEITYWEAP:Quarterstaff											ALIGN:TN		FACTSET:Pantheon|All			SOURCEPAGE:p.167		TYPE:Greater			DESC:Boccob (BOK-kob) ~ Male ~ The Uncaring, Lord of All Magic, Archmage of the Deities   <b>Portfolio:</b> Magic, Arcane Knowledge, Foresight, and Balance
+Bralm				KEY:Bralm				DOMAINS:Animal,Law,Strength|PREALIGN:LN,NG,TN,NE						DEITYWEAP:Quarterstaff											ALIGN:TN		FACTSET:Pantheon|Suel			SOURCEPAGE:p.168		TYPE:Lesser				DESC:Bralm (BRAHLM) ~ Female ~ The Flying Queen, the Hive Goddess, the Toiling Lady   <b>Portfolio:</b> Insects and Industriousness
+Celestian			KEY:Celestian			DOMAINS:Knowledge,Travel,Protection|PREALIGN:LN,NG,TN,CN				DEITYWEAP:Shortspear											ALIGN:TN		FACTSET:Pantheon|Oeridian		SOURCEPAGE:p.168		TYPE:Intermediate		DESC:Celestian (seh-LES-tee-an) ~ Male ~ The Far Wanderer   <b>Portfolio:</b> Stars, Space, and Wanderers
+Cyndor				KEY:Cyndor				DOMAINS:Law,Protection,Travel|PREALIGN:LG,LN,LE,TN						DEITYWEAP:Sling													ALIGN:LN		FACTSET:Pantheon|Oeridian		SOURCEPAGE:p.168		TYPE:Lesser				DESC:Cyndor (SIN-dohr) ~ Male ~ Keeper of Infinity, the Illimitable One   <b>Portfolio:</b> Time, Infinity, and Continuity
+Dalt				KEY:Dalt				DOMAINS:Chaos,Good,Protection,Travel,Trickery|PREALIGN:NG,CG,CN			DEITYWEAP:Dagger												ALIGN:CG		FACTSET:Pantheon|Suel			SOURCEPAGE:p.169		TYPE:Lesser				DESC:Dalt (DAHLT) ~ Male ~ The Opener of Ways   <b>Portfolio:</b> Portals, Doors, Enclosures, Locks, and Keys
+Delleb				KEY:Delleb				DOMAINS:Good,Knowledge,Law,Magic|PREALIGN:LG,LN,NG						DEITYWEAP:Dart													ALIGN:LG		FACTSET:Pantheon|Oeridian		SOURCEPAGE:p.169		TYPE:Lesser				DESC:Delleb (DEL-leb) ~ Male ~ The Scholar, the Scribe   <b>Portfolio:</b> Reason, Intellect, and Study
+Ehlonna				KEY:Ehlonna				DOMAINS:Animal,Good,Plant,Sun|PREALIGN:LG,NG,TN,CG						DEITYWEAP:Longbow|Longsword										ALIGN:NG		FACTSET:Pantheon|All			SOURCEPAGE:p.169		TYPE:Intermediate		DESC:Ehlonna (eh-LOHN-nah) ~ Female ~ of the Forests   <b>Portfolio:</b> Forests, Woodlands, Flora and Fauna, and Fertility
+Erythnul			KEY:Erythnul			DOMAINS:Chaos,Evil,Trickery,War|PREALIGN:NE,CN,CE						DEITYWEAP:Mace (Heavy)											ALIGN:CE		FACTSET:Pantheon|Oeridian		SOURCEPAGE:p.170		TYPE:Intermediate		DESC:Erythnul (eh-RITH-nul) ~ Male ~ The Many   <b>Portfolio:</b> Hate, Envy, Malice, Panic, Ugliness, and Slaughter
+Fharlanghn			KEY:Fharlanghn			DOMAINS:Luck,Protection,Travel|PREALIGN:LN,NG,TN,CN						DEITYWEAP:Quarterstaff											ALIGN:TN		FACTSET:Pantheon|Oeridian		SOURCEPAGE:p.170		TYPE:Intermediate		DESC:Fharlanghn (far-LAHNG-un) ~ Male ~ The Dweller on the Horizon   <b>Portfolio:</b> Horizons, Distance, Travel, and Roads
+Fortubo				KEY:Fortubo				DOMAINS:Earth,Good,Law,Protection|PREALIGN:LG,LN,NG						DEITYWEAP:Warhammer												ALIGN:LG		FACTSET:Pantheon|Suel			SOURCEPAGE:p.171		TYPE:Lesser				DESC:Fortubo (for-TOO-boh) ~ Male ~ The Stern, the Unyielding Rock, the Bountiful Seam, the Pure Ore, the Master Smith, the Stone Dweller   <b>Portfolio:</b> Stone, Metals, Mountains, and Guardianship
+Geshtai				KEY:Geshtai				DOMAINS:Plant,Travel,Water|PREALIGN:LN,NG,TN,NE,CN						DEITYWEAP:Shortspear											ALIGN:TN		FACTSET:Pantheon|Baklunish		SOURCEPAGE:p.171		TYPE:Lesser				DESC:Geshtai (GESH-tie) ~ Female ~ Daughter of the Oasis   <b>Portfolio:</b> Lakes, Rivers, Wells, and Streams
+Heironeous			KEY:Heironeous			DOMAINS:Good,Law,War|PREALIGN:LG,LN,NG									DEITYWEAP:Longsword|Battleaxe									ALIGN:LG		FACTSET:Pantheon|Oeridian		SOURCEPAGE:p.171		TYPE:Intermediate		DESC:Heironeous (hi-ROE-nee-us) ~ Male ~ The Invincible, the Valorous Knight, the Archpaladin   <b>Portfolio:</b> Chivalry, Justice, Honor, War, Daring, and Valor
+Hextor				KEY:Hextor				DOMAINS:Destruction,Evil,Law,War|PREALIGN:LN,LE,NE						DEITYWEAP:Flail													ALIGN:LE		FACTSET:Pantheon|Oeridian		SOURCEPAGE:p.172		TYPE:Intermediate		DESC:Hextor (HEKS-tor) ~ Male ~ Scourge of Battle, Champion of Evil, Herald of Hell   <b>Portfolio:</b> War, Discord, Massacres, Conflict, Fitness, and Tyranny
+Incabulos			KEY:Incabulos			DOMAINS:Death,Evil,Destruction|PREALIGN:LE,TN,NE,CE						DEITYWEAP:Quarterstaff											ALIGN:NE		FACTSET:Pantheon|All			SOURCEPAGE:p.172		TYPE:Greater			DESC:Incabulos (in-CAB-yoo-lohs) ~ Male ~ The Black Rider   <b>Portfolio:</b> Sickness, Famine, Nightmares, Drought, and Disasters
+Istus				KEY:Istus				DOMAINS:Chaos,Knowledge,Law,Luck|PREALIGN:LN,NG,TN,NE,CN				DEITYWEAP:Net													ALIGN:TN		FACTSET:Pantheon|Baklunish		SOURCEPAGE:p.172		TYPE:Greater			DESC:Istus (IS-tus) ~ Female ~ Lady of Our Fate, The Colorless and All-Colored   <b>Portfolio:</b> Fate, Destiny, Divination, Future, and Honesty
+Iuz					KEY:Iuz					DOMAINS:Chaos,Evil,Trickery|PREALIGN:NE,CN,CE							DEITYWEAP:Greatsword											ALIGN:CE		FACTSET:Pantheon|All			SOURCEPAGE:p.173		TYPE:Demigod			DESC:Iuz (EYE-ooze) ~ Male ~ The Evil, the Old One   <b>Portfolio:</b> Deceit, Pain, Oppression, and Evil
+Jascar				KEY:Jascar				DOMAINS:Earth,Good,Law,Protection|PREALIGN:LG,LN,NG						DEITYWEAP:Warhammer												ALIGN:LG		FACTSET:Pantheon|Suel			SOURCEPAGE:p.173		TYPE:Lesser				DESC:Jascar (JAS-kar) ~ Male ~ The Lord of the Dells, the Mist Upon The Hills, the Dweller Upon the Heights, the Voice of the Hills   <b>Portfolio:</b> Hills and Mountains
+Joramy				KEY:Joramy				DOMAINS:Destruction,Fire,War|PREALIGN:LN,NG,TN,CN						DEITYWEAP:Quarterstaff											ALIGN:TN		FACTSET:Pantheon|All			SOURCEPAGE:p.173		TYPE:Lesser				DESC:Joramy (JOR-um-ee) ~ Female ~ The Shrew   <b>Portfolio:</b> Fire, Volcanoes, Wrath, Anger, and Quarrels
+Kord				KEY:Kord				DOMAINS:Chaos,Good,Luck,Strength|PREALIGN:NG,CG,CN						DEITYWEAP:Greatsword|Sword (Bastard)							ALIGN:CG		FACTSET:Pantheon|Suel			SOURCEPAGE:p.174		TYPE:Intermediate		DESC:Kord (KOHRD) ~ Male ~ The Brawler   <b>Portfolio:</b> Athletics, Sport, Brawling, Strength, and Courage
+Kurell				KEY:Kurell				DOMAINS:Chaos,Luck,Trickery|PREALIGN:TN,CG,CN,CE						DEITYWEAP:Sword (Short)											ALIGN:CN		FACTSET:Pantheon|Oeridian		SOURCEPAGE:p.174		TYPE:Lesser				DESC:Kurell (kuh-REL) ~ Male ~ The Bitter Hand, the Scorned Heart, the Vengeful Knave   <b>Portfolio:</b> Jealousy, Revenge, and Theft
+Lendor				KEY:Lendor				DOMAINS:Knowledge,Law,Protection|PREALIGN:LG,LE,LE,TN					DEITYWEAP:Greatsword											ALIGN:LN		FACTSET:Pantheon|Suel			SOURCEPAGE:p.174		TYPE:Intermediate		DESC:Lendor (LEN-dor) ~ Mae ~  Prince of Time, Master of Tedium   <b>Portfolio:</b> Time, Tedium, Patience, and Study
+Lirr				KEY:Lirr				DOMAINS:Chaos,Good,Knowledge,Magic,Travel|PREALIGN:NG,CG,CN				DEITYWEAP:Shortspear|Rapier										ALIGN:CG		FACTSET:Pantheon|Oeridian		SOURCEPAGE:p.175		TYPE:Lesser				DESC:Lirr (LEER) ~ Female ~ Lady Poet, the Lorekeeper   <b>Portfolio:</b> Poetry, Prose, Literature, and Art
+Llerg				KEY:Llerg				DOMAINS:Animal,Chaos,Strength|PREALIGN:TN,CG,CN,CE						DEITYWEAP:Battleaxe|Longsword									ALIGN:CN		FACTSET:Pantheon|Suel			SOURCEPAGE:p.175		TYPE:Lesser				DESC:Llerg (LERG) ~ Male ~ Great Bear, Animal Fang, Strongest Serpent, God of Force   <b>Portfolio:</b> Beasts and Strength
+Lydia				KEY:Lydia				DOMAINS:Good,Knowledge,Sun,Travel|PREALIGN:LG,NG,TN,CG					DEITYWEAP:Shortspear											ALIGN:NG		FACTSET:Pantheon|Suel			SOURCEPAGE:p.175		TYPE:Lesser				DESC:Lydia (LIH-dee-ah) ~ Female ~ The Mother of Truth, the Pure Song   <b>Portfolio:</b> Music, Knowledge, and Daylight
+Mayaheine			KEY:Mayaheine			DOMAINS:Good,Law,Protection,War|PREALIGN:LG,LN,NG						DEITYWEAP:Sword (Bastard)|Mace (Heavy)|Longbow					ALIGN:LG		FACTSET:Pantheon|All			SOURCEPAGE:p.175		TYPE:Demigod			DESC:Mayaheine (MY-ah-heen) ~ Female ~ The Shield Maiden   <b>Portfolio:</b> Protection, Justice, and Valor
+Merikka				KEY:Merikka				DOMAINS:Good,Law,Plant,Protection|PREALIGN:LG,LN,NG						DEITYWEAP:Sickle												ALIGN:LG		FACTSET:Pantheon|Oeridian		SOURCEPAGE:p.176		TYPE:Demigod			DESC:Merikka (meh-RIK-kah) ~ Female ~ Lady of the Calendar   <b>Portfolio:</b> Farming, Agriculture, and Home
+Mouqol				KEY:Mouqol				DOMAINS:Knowledge,Travel,Trickery|PREALIGN:LN,NG,TN,NE,CN				DEITYWEAP:Dagger|Crossbow (Light)								ALIGN:TN		FACTSET:Pantheon|Baklunish		SOURCEPAGE:p.176		TYPE:Lesser				DESC:Mouqol (moh-KOHL) ~ Male ~ The Merchant   <b>Portfolio:</b> Trade, Negotiation, Ventures, Appraisal, and Reciprocity
+Myhriss				KEY:Myhriss				DOMAINS:Good,Healing,Protection|PREALIGN:LG,NG,TN,CG					DEITYWEAP:Shortbow|Whip											ALIGN:NG		FACTSET:Pantheon|Flan			SOURCEPAGE:p.177		TYPE:Lesser				DESC:Myhriss (MEE-ris) ~ Female ~ The Thrice-Kissed, Maid of Light and Dark   <b>Portfolio:</b> Love, Romance, and Beauty 
+Nerull				KEY:Nerull				DOMAINS:Death,Evil,Trickery|PREALIGN:LE,TN,NE,CE						DEITYWEAP:Scythe|Dagger|Quarterstaff|Sickle						ALIGN:NE		FACTSET:Pantheon|Flan			SOURCEPAGE:p.177		TYPE:Greater			DESC:Nerull (NEH-rul) ~ Male ~ The Reaper, Foe of all Good, Hater of Life, Bringer of Darkness   <b>Portfolio:</b> Death, Darkness, Murder, and the Underworld
+Norebo				KEY:Norebo				DOMAINS:Chaos,Luck,Trickery|PREALIGN:TN,CG,CN,CE						DEITYWEAP:Dagger												ALIGN:CN		FACTSET:Pantheon|Suel			SOURCEPAGE:p.177		TYPE:Lesser				DESC:Norebo (noh-REE-boh) ~ Male ~ God of Gambles   <b>Portfolio:</b> Luck, Gambling, and Risks
+Obad-Hai			KEY:Obad-Hai			DOMAINS:Air,Animal,Earth,Fire,Plant,Water|PREALIGN:LN,NG,TN,NE,CN		DEITYWEAP:Quarterstaff											ALIGN:TN		FACTSET:Pantheon|Flan			SOURCEPAGE:p.178		TYPE:Intermediate		DESC:Obad-Hai (OH-bahd HI) ~ Male ~ The Shalm   <b>Portfolio:</b> Nature, Woodlands, Freedom, Hunting, and Beasts
+Olidammara			KEY:Olidammara			DOMAINS:Chaos,Luck,Trickery|PREALIGN:TN,CG,CN,CE						DEITYWEAP:Rapier												ALIGN:CN		FACTSET:Pantheon|All			SOURCEPAGE:p.178		TYPE:Intermediate		DESC:Olidammara (oh-lih-dam-MAH-rah) ~ Male ~ The Laughing Rogue   <b>Portfolio:</b> Music, Revels, Wine, Rogues, Humor, and Tricks
+Osprem				KEY:Osprem				DOMAINS:Law,Protection,Travel,Water|PREALIGN:LG,LN,LE,TN				DEITYWEAP:Trident												ALIGN:LN		FACTSET:Pantheon|Suel			SOURCEPAGE:p.178		TYPE:Intermediate		DESC:Osprem (AH-sprem) ~ Female ~ The Sea Princess, Lady of the Waves   <b>Portfolio:</b> Sea Voyages, Ships, and Sailors
+Pelor				KEY:Pelor				DOMAINS:Good,Healing,Strength,Sun|PREALIGN:LG,NG,TN,CG					DEITYWEAP:Mace (Heavy)											ALIGN:NG		FACTSET:Pantheon|Flan			SOURCEPAGE:p.178		TYPE:Greater			DESC:Pelor (PAY-lor) ~ Male ~ The Sun Father, the Shining One   <b>Portfolio:</b> Sun, Light, Strength, and Healing
+Phaulkon			KEY:Phaulkon			DOMAINS:Air,Animal,Chaos,Good,War|PREALIGN:NG,CG,CN						DEITYWEAP:Longbow|Dagger										ALIGN:CG		FACTSET:Pantheon|Suel			SOURCEPAGE:p.179		TYPE:Lesser				DESC:Phaulkon (FAHL-kahn) ~ Male ~ Master of Birds, the Feathered One, the Far Reacher, the Wind Archer   <b>Portfolio:</b> Air, Wind, Clouds, Birds, and Archery
+Pholtus				KEY:Pholtus				DOMAINS:Good,Knowledge,Law,Sun|PREALIGN:LG,LN,NG						DEITYWEAP:Quarterstaff											ALIGN:LG		FACTSET:Pantheon|Oeridian		SOURCEPAGE:p.179		TYPE:Intermediate		DESC:Pholtus (FOHL-tus) ~ Male ~ of the Blinding Light   <b>Portfolio:</b> Light, Resolution, Law, Order, Inflexibility, Sun, and Moons
+Phyton				KEY:Phyton				DOMAINS:Chaos,Good,Plant,Sun,Water|PREALIGN:NG,CG,CN					DEITYWEAP:Scimitar												ALIGN:CG		FACTSET:Pantheon|Suel			SOURCEPAGE:p.179		TYPE:Lesser				DESC:Phyton (FIE-tahn) ~ Male ~ The Woodshaper   <b>Portfolio:</b> Nature, Beauty, and Farming
+Procan				KEY:Procan				DOMAINS:Animal,Chaos,Travel,Water|PREALIGN:TN,CG,CN,CE					DEITYWEAP:Trident												ALIGN:CN		FACTSET:Pantheon|Oeridian		SOURCEPAGE:p.180		TYPE:Intermediate		DESC:Procan (PROH-kan) ~ Male ~ The Storm Lord, Sailor of Sea and Sky   <b>Portfolio:</b> Seas, Sea Life, Salt, Sea Weather, and Navigation
+Pyremius			KEY:Pyremius			DOMAINS:Destruction,Evil,Fire|PREALIGN:LE,TN,NE,CE						DEITYWEAP:Longsword|Whip										ALIGN:NE		FACTSET:Pantheon|Suel			SOURCEPAGE:p.181		TYPE:Lesser				DESC:Pyremius (pie-REH-mee-us) ~ Male ~ The Blazing Killer, Demon of Venom, Hideous Assassin   <b>Portfolio:</b> Fire, Poison, and Murder
+Ralishaz			KEY:Ralishaz			DOMAINS:Chaos,Destruction,Luck|PREALIGN:TN,CN,CE						DEITYWEAP:Quarterstaff											ALIGN:CN		FACTSET:Pantheon|All			SOURCEPAGE:p.181		TYPE:Intermediate		DESC:Ralishaz (RAL-ih-shaz) ~ Male ~ The Unlooked For   <b>Portfolio:</b> Chance, Ill Luck, Misfortune, and Insanity
+Rao					KEY:Rao					DOMAINS:Law,Good,Knowledge|PREALIGN:LG,LN,NG							DEITYWEAP:Mace (Light)											ALIGN:LG		FACTSET:Pantheon|Flan			SOURCEPAGE:p.181		TYPE:Greater			DESC:Rao (RAH-oh) ~ Male ~ The Mediator, the Calm God   <b>Portfolio:</b> Peace, Reason, and Serenity
+Raxivort			KEY:Raxivort			DOMAINS:Animal,Chaos,Evil,Trickery|PREALIGN:NE,CN,CE					DEITYWEAP:Falchion|Dagger										ALIGN:CE		FACTSET:Pantheon|All			SOURCEPAGE:p.182		TYPE:Lesser				DESC:Raxivort (RAKS-ih-vort) ~ Male ~ Lord of Xvartkind, Master of Rats, Night Flutterer   <b>Portfolio:</b> Xvarts, Rats, Wererats, and Bats
+Rudd				KEY:Rudd				DOMAINS:Chaos,Good,Luck|PREALIGN:TN,CG,CN								DEITYWEAP:Rapier|Shortbow										ALIGN:CN		FACTSET:Pantheon|Oeridian		SOURCEPAGE:p.182		TYPE:Demigod			DESC:Rudd (RUD) ~ Female ~ The Charm, the Duelist   <b>Portfolio:</b> Chance, Good Luck, and Skill
+St. Cuthbert		KEY:St. Cuthbert		DOMAINS:Destruction,Good,Law,Protection,Strength|PREALIGN:LG,LN,NG		DEITYWEAP:Club													ALIGN:LG		FACTSET:Pantheon|All			SOURCEPAGE:p.182		TYPE:Intermediate		DESC:St. Cuthbert (CUTH-bert) ~ Male ~ of the Cudgel   <b>Portfolio:</b> Common Sense, Wisdom, Zeal, Honesty, Truth, and Discipline
+Sotillion			KEY:Sotillion			DOMAINS:Air,Chaos,Good,Healing,Plant|PREALIGN:NG,CG,CN					DEITYWEAP:Net													ALIGN:CG		FACTSET:Pantheon|Oeridian		SOURCEPAGE:p.183		TYPE:Lesser				DESC:Sotillion (so-TIL-ee-on) ~ Female ~ The Summer Queen   <b>Portfolio:</b> Summer, South Wind, Ease, and Comfort
+Syrul				KEY:Syrul				DOMAINS:Evil,Knowledge,Trickery|PREALIGN:LE,TN,NE,CE					DEITYWEAP:Dagger												ALIGN:NE		FACTSET:Pantheon|Suel			SOURCEPAGE:p.183		TYPE:Lesser				DESC:Syrul (SIGH-rul) ~ Female ~ The Forked Tongue, Night Hag, Oathbreaker   <b>Portfolio:</b> Lies, Deceit, Treachery, and False Promises
+Telchur				KEY:Telchur				DOMAINS:Air,Chaos,Strength|PREALIGN:TN,CG,CN,CE							DEITYWEAP:Shortspear|Shortbow									ALIGN:CN		FACTSET:Pantheon|Oeridian		SOURCEPAGE:p.184		TYPE:Lesser				DESC:Telchur (TEL-chur) ~ Male ~ Icebrother   <b>Portfolio:</b> Winter, Cold, and North Wind
+Tharizdun			KEY:Tharizdun			DOMAINS:Destruction,Evil,Knowledge|PREALIGN:LE,TN,NE,CE					DEITYWEAP:Dagger												ALIGN:NE		FACTSET:Pantheon|All			SOURCEPAGE:p.184		TYPE:Intermediate		DESC:Tharizdun (tha-RIZ-dun) ~ Male ~ The Dark God, He of Eternal Darkness   <b>Portfolio:</b> Eternal Darkness, Decay, Entropy, Malign Knowledge, and Insanity
+Trithereon			KEY:Trithereon			DOMAINS:Chaos,Good,Protection,Strength|PREALIGN:NG,CG,CN				DEITYWEAP:Shortspear|Longsword|Greatclub						ALIGN:CG		FACTSET:Pantheon|All			SOURCEPAGE:p.185		TYPE:Intermediate		DESC:Trithereon (tri-THEH-ree-on) ~ Male ~ The Summoner   <b>Portfolio:</b> Individuality, Liberty, Retribution, and Self-Defense
+Ulaa				KEY:Ulaa				DOMAINS:Earth,Good,Law|PREALIGN:LG,LN,NG								DEITYWEAP:Warhammer												ALIGN:LG		FACTSET:Pantheon|All			SOURCEPAGE:p.185		TYPE:Intermediate		DESC:Ulaa (OO-lah) ~ Female ~ The Stonewife   <b>Portfolio:</b> Hills, Mountains, and Gemstones
+Vatun				KEY:Vatun				DOMAINS:Air,Animal,Chaos,Strength|PREALIGN:TN,CG,CN,CE					DEITYWEAP:Battleaxe												ALIGN:CN		FACTSET:Pantheon|Suel			SOURCEPAGE:p.185		TYPE:Lesser				DESC:Vatun (VAY-tun) ~ Male ~ The North God   <b>Portfolio:</b> Northern Barbarians, Cold, Winter, and Arctic Beasts
+Vecna				KEY:Vecna				DOMAINS:Evil,Knowledge,Magic|PREALIGN:LE,TN,NE,CE						DEITYWEAP:Dagger|Quarterstaff									ALIGN:NE		FACTSET:Pantheon|Flan			SOURCEPAGE:p.186		TYPE:Lesser				DESC:Vecna (VEK-nah) ~ Male ~ The Arch-Lich, Master of the Spider Throne, the Whispered One   <b>Portfolio:</b> Destructive and Evil Secrets
+Velnius				KEY:Velnius				DOMAINS:Air,Travel,Water|PREALIGN:LN,NG,TN,CN							DEITYWEAP:Shortspear											ALIGN:TN		FACTSET:Pantheon|Oeridian		SOURCEPAGE:p.186		TYPE:Lesser				DESC:Velnius (VEL-nee-us) ~ Male ~ The Rainshroud, the Elder Breeze   <b>Portfolio:</b> Sky and Weather
+Wastri				KEY:Wastri				DOMAINS:Animal,Law,War|PREALIGN:LE,LN,TN								DEITYWEAP:Glaive|Guisarme										ALIGN:LN		FACTSET:Pantheon|All			SOURCEPAGE:p.187		TYPE:Demigod			DESC:Wastri (WAH-stree) ~ Male ~ The Hopping Prophet, Hammer of False Humans   <b>Portfolio:</b> Amphibians, Bigotry, and Self-Deception
+Wee Jas				KEY:Wee Jas				DOMAINS:Death,Law,Magic|PREALIGN:LE,LN,TN								DEITYWEAP:Dagger												ALIGN:LN		FACTSET:Pantheon|Suel			SOURCEPAGE:p.187		TYPE:Lesser				DESC:Wee Jas (WEE jas) ~ Female ~ The Witch Goddess, Ruby Sorceress, Stern Lady, Death’s Guardian   <b>Portfolio:</b> Magic, Death, Vanity, and Law
+Wenta				KEY:Wenta				DOMAINS:Air,Chaos,Good,Plant|PREALIGN:NG,CG,CN							DEITYWEAP:Club													ALIGN:CG		FACTSET:Pantheon|Oeridian		SOURCEPAGE:p.187		TYPE:Lesser				DESC:Wenta (WEN-tah) ~ Female ~ The Alewife, Harvest Daughter   <b>Portfolio:</b> Autumn, West Wind, Harvest, and Brewing
+Xan Yae				KEY:Xan Yae				DOMAINS:Knowledge,Trickery,War|PREALIGN:LN,NG,TN,NE,CN					DEITYWEAP:Falchion|Strike (Unarmed)								ALIGN:TN		FACTSET:Pantheon|Baklunish		SOURCEPAGE:p.188		TYPE:Lesser				DESC:Xan Yae (zan YAY) ~ Female ~ Lady of Perfection   <b>Portfolio:</b> Twilight, Shadows, Stealth, and Mental Power
+Xerbo				KEY:Xerbo				DOMAINS:Animal,Knowledge,Water|PREALIGN:LN,NG,TN,NE,CN					DEITYWEAP:Trident												ALIGN:TN		FACTSET:Pantheon|Suel			SOURCEPAGE:p.188		TYPE:Lesser				DESC:Xerbo (ZER-boh) ~ Male ~ The Sea Dragon   <b>Portfolio:</b> Sea, Sailing, Money, and Business
+Zagyg				KEY:Zagyg				DOMAINS:Chaos,Knowledge,Magic|PREALIGN:TN,CG,CN							DEITYWEAP:Dagger												ALIGN:CN		FACTSET:Pantheon|All			SOURCEPAGE:p.189		TYPE:Demigod			DESC:Zagyg (ZA-gig) ~ Male ~ The Mad Arch-Mage   <b>Portfolio:</b> Humor, Eccentricity, Occult Lore, and Unpredictability
+Zilchus				KEY:Zilchus				DOMAINS:Knowledge,Law,Trickery|PREALIGN:LG,LN,TN,LE						DEITYWEAP:Dagger												ALIGN:LN		FACTSET:Pantheon|Oeridian		SOURCEPAGE:p.189		TYPE:Intermediate		DESC:Zilchus (ZIL-chus) ~ Male ~ The Great Guildmaster, the Money Counter   <b>Portfolio:</b> Power, Prestige, Money, Business, and Influence
+Zodal				KEY:Zodal				DOMAINS:Good,Healing,Protection|PREALIGN:LG,NG,TN,CG					DEITYWEAP:Strike (Unarmed)										ALIGN:NG		FACTSET:Pantheon|Flan			SOURCEPAGE:p.190		TYPE:Lesser				DESC:Zodal (ZOH-dal) ~ Male ~ The Gray Son, the Gentle Hand   <b>Portfolio:</b> Mercy, Hope, and Benevolence
+Zuoken				KEY:Zuoken				DOMAINS:Knowledge,Strength,War|PREALIGN:LN,NG,TN,NE,CN					DEITYWEAP:Strike (Unarmed)										ALIGN:TN		FACTSET:Pantheon|Baklunish		SOURCEPAGE:p.190		TYPE:Demigod			DESC:Zuoken (zoo-OH-ken) ~ Master of Da'Shon and Edel, Servant of the Lady   <b>Portfolio:</b> Physical and Mental Mastery
+# *** END - Deities from Living Greyhawk Gazetteer ***
 
+#
 
+SOURCELONG:Living-Greyhawk-Deities-v2-0.pdf		SOURCESHORT:LGD		SOURCEDATE:2023-02
 
-#Darkness* *A cleric who has access to the Darkness domain can use either the Darkness domain presented in Chapter 4 of this book or the one in Book of Vile Darkness.
-#?A draegloth cleric of Lolth can choose the Demonic domain as one of her domains.
+# *** BEGIN - Dwarven Deities from Living-Greyhawk-Deities-v2-0.pdf ***
+#Deity Name					Unique Key						Domains																		Deity Weapon										Align			Pantheon						Source Page				Type					Description
+Abbathor					KEY:Abbathor					DOMAINS:Evil,Luck,Trickery|PREALIGN:LE,TN,NE,CE								DEITYWEAP:Dagger									ALIGN:NE		FACTSET:Pantheon|Dwarven		SOURCEPAGE:p.6			TYPE:Intermediate		DESC:Abbathor (AB-ah-thor) ~ Male ~ Great Master of Greed, Trove Lord, The Avaricious, Wyrm of Avarice   <b>Portfolio:</b> Greed
+Berronar Truesilver			KEY:Berronar Truesilver			DOMAINS:Good,Healing,Law,Protection|PREALIGN:LG,LN,NG						DEITYWEAP:Mace (Heavy)								ALIGN:LG		FACTSET:Pantheon|Dwarven		SOURCEPAGE:p.23			TYPE:Intermediate		DESC:Berronar (BAIR-oh-nahr) ~ Female ~ The Revered Mother, Matron of Home and Hearth   <b>Portfolio:</b> Safety, Truth, Home, Healing
+Clangeddin Silverbeard		KEY:Clangeddin Silverbeard		DOMAINS:Good,Law,Strength,War|PREALIGN:LG,LN,NG								DEITYWEAP:Battleaxe									ALIGN:LG		FACTSET:Pantheon|Dwarven		SOURCEPAGE:p.36			TYPE:Intermediate		DESC:Clangeddin (KLAN-gehd-din) ~ Male ~ Father of Battle, Lord of the Twin Axes, The Giantkiller, The Goblinbane, The Wyrmslayer, The Rock of Battle   <b>Portfolio:</b> Battle, War
+Dugmaren Brightmantle		KEY:Dugmaren Brightmantle		DOMAINS:Chaos,Good,Knowledge|PREALIGN:NG,CG,CN							DEITYWEAP:Sword (Short)								ALIGN:CG		FACTSET:Pantheon|Dwarven		SOURCEPAGE:p.48			TYPE:Lesser				DESC:Dugmaren (DUHG-mah-ren) ~ Male ~ The Gleam in the Eye, The Wandering Tinker, The Errant Explorer   <b>Portfolio:</b> Scholarship, Discovery, Invention
+Dumathoin					KEY:Dumathoin					DOMAINS:Earth,Knowledge,Protection|PREALIGN:LN,NG,TN,NE,CN					DEITYWEAP:Warhammer|Pick (Heavy)|Pick (Light)		ALIGN:TN		FACTSET:Pantheon|Dwarven		SOURCEPAGE:p.49			TYPE:Intermediate		DESC:Dumathoin (DOO-muh-THOE-in) ~ Male ~ Keeper of Secrets Under the Mountain, The Silent Keeper, The Mountain Shield   <b>Portfolio:</b> Mining, Exploration
+Gendwar Argrim				KEY:Gendwar Argrim				DOMAINS:Destruction,Law,War|PREALIGN:LG,LN,LE,TN							DEITYWEAP:Waraxe (Dwarven)							ALIGN:LN		FACTSET:Pantheon|Dwarven		SOURCEPAGE:p.65			TYPE:Demigod			DESC:Gendwar Argrim (GEND-war AHR-grihm) ~ Male ~ The Doomed Dwarf   <b>Portfolio:</b> Fatalism and Obsession
+Moradin						KEY:Moradin						DOMAINS:Earth,Fire,Good,Law,Protection,Strength,War|PREALIGN:LG,LN,NG		DEITYWEAP:Warhammer									ALIGN:LG		FACTSET:Pantheon|Dwarven		SOURCEPAGE:p.118		TYPE:Greater			DESC:Moradin (MOAR-uh-din) ~ Male ~ The Soul Forger, Dwarffather, The All-Father, The Creator   <b>Portfolio:</b> Dwarves, Smithing, Engineering, Creation, War
+Muamman Duathal				KEY:Muamman Duathal				DOMAINS:Good,Protection,Travel|PREALIGN:LG,NG,TN,CG							DEITYWEAP:Mace (Heavy)								ALIGN:NG		FACTSET:Pantheon|Dwarven		SOURCEPAGE:p.120		TYPE:Lesser				DESC:Muamman Duathal (Moo-AM-man Doo-AH-thuhl) ~ Male ~ Finder-of-Trails, the Watcher over Wanderers, the Watchful Eye   <b>Portfolio:</b> Expatriates, Urban Dwarves, Travelers, Exiles, Lightning
+Vergadain					KEY:Vergadain					DOMAINS:Knowledge,Luck,Trickery|PREALIGN:LN,NG,TN,NE,CN						DEITYWEAP:Longsword									ALIGN:TN		FACTSET:Pantheon|Dwarven		SOURCEPAGE:p.182		TYPE:Intermediate		DESC:Vergadain (VUR-guh-dain) ~ Male ~ The Merchant King, The Trickster, The Laughing Dwarf, The Short Father   <b>Portfolio:</b> Wealth, Luck
+# *** END - Dwarven Deities from Living-Greyhawk-Deities-v2-0.pdf ***
 
-# what if we're not included Vile or Exalted Dieties?
-# for now, disable these.
-# Vile and Exalted Deities - p.189
-#Abbathor.MOD	DOMAINS:Greed
-#Asmodeus.MOD	DOMAINS:Diabolic
-#Baalzebul.MOD	DOMAINS:Diabolic
-#Barachiel.MOD	DOMAINS:Herald
-#Berronar Truesilver.MOD	DOMAINS:Community
-#Cyric.MOD	DOMAINS:Pain
-#Cyrrollalee.MOD	DOMAINS:Community
-#Demogorgon.MOD	DOMAINS:Corruption,Demonic
-#Domiel.MOD		DOMAINS:Celestial
-#Eldath.MOD	DOMAINS:Community
-#Gargauth.MOD	DOMAINS:Corruption
-#Graz'zt.MOD	DOMAINS:Darkness,Darkness,Demonic
-#Hanali Celanil.MOD	DOMAINS:Pleasure
-#Hathor.MOD	DOMAINS:Community
-#Horus-Re.MOD	DOMAINS:Glory
-#Ilmater.MOD	DOMAINS:Endurance
-#Kharash.MOD	DOMAINS:Wrath
-#Lathander.MOD	DOMAINS:Glory
-#Lliira.MOD	DOMAINS:Joy
-#Lolth.MOD	DOMAINS:Darkness,Darkness
-#Lolth.MOD	DOMAINS:Demonic
-#Loviatar.MOD	DOMAINS:Pain
-#Lurue.MOD	DOMAINS:Fey
-#Malar.MOD		DOMAINS:Bestial
-#Mammon.MOD	DOMAINS:Diabolic
-#Mask.MOD	DOMAINS:Darkness,Darkness
-#Mephistopheles.MOD	DOMAINS:Diabolic
-#Mielikki.MOD	DOMAINS:Fey
-#Nobanion.MOD	DOMAINS:Fey
-#Pistis Sophia.MOD	DOMAINS:Celestial
-#Rillifane Rallathil.MOD	DOMAINS:Fey
-#Set.MOD	DOMAINS:Darkness,Darkness
-#Shar.MOD	DOMAINS:Darkness,Darkness
-#Sharess.MOD	DOMAINS:Pleasure
-#Shargaas.MOD	DOMAINS:Darkness,Darkness
-#Sune.MOD	DOMAINS:Pleasure
-#Tiamat.MOD	DOMAINS:Greed
-#Tyr.MOD	DOMAINS:Wrath
-#Urdlen.MOD	DOMAINS:Greed
-#Yeenoghu.MOD	DOMAINS:Bestial,Demonic
-#Yurtrus.MOD	DOMAINS:Corruption
+#
+
+# *** BEGIN - Elven Deities from Living-Greyhawk-Deities-v2-0.pdf ***
+#Deity Name				Unique Key					Domains																Deity Weapon				Align			Pantheon					Source Page				Type					Description
+Aerdrie Faenya			KEY:Aerdrie Faenya			DOMAINS:Air,Animal,Chaos,Good|PREALIGN:NG,CG,CN						DEITYWEAP:Quarterstaff		ALIGN:CG		FACTSET:Pantheon|Elf		SOURCEPAGE:p.7			TYPE:Intermediate		DESC:Aerdrie Faenya (AIR-dree FAIN-yuh) ~ Female ~ The Winged Mother, Lady of Air and Wind, She of the Azure Plumage, Bringer of Rain and Storms   <b>Portfolio:</b> Air, Wind, Clouds, Birds, and Archery
+Corellon Larethian		KEY:Corellon Larethian		DOMAINS:Chaos,Good,Magic,Protection,War|PREALIGN:NG,CG,CN			DEITYWEAP:Longsword			ALIGN:CG		FACTSET:Pantheon|Elf		SOURCEPAGE:p.37			TYPE:Greater			DESC:Corellon Larethian (kor-el-un la-RETH-ee-an) ~ Male ~ Creator of the Elves, The Protector, First of the Seldarine, Protector and Preserver of Life, Ruler of All Elves   <b>Portfolio:</b> Magic, Music, Arts & Crafts, and War
+Deep Sashelas			KEY:Deep Sashelas			DOMAINS:Chaos,Good,Knowledge,Water|PREALIGN:NG,CG,CN				DEITYWEAP:Trident			ALIGN:CG		FACTSET:Pantheon|Elf		SOURCEPAGE:p.44			TYPE:Intermediate		DESC:Sashelas (SASH-ul-us) ~ Male ~ Lord of the Undersea, The Dolphin Prince, The Knowledgeable One, Sailor's Friend, The Creator   <b>Portfolio:</b> Aquatic Elves, Oceans, Knowledge, Beauty, Water Magic
+Erevan Ilesere			KEY:Erevan Ilesere			DOMAINS:Chaos,Luck,Trickery|PREALIGN:TN,CG,CN,CE					DEITYWEAP:Sword (Short)		ALIGN:CN		FACTSET:Pantheon|Elf		SOURCEPAGE:p.54			TYPE:Intermediate		DESC:Erevan Ilesere (AIR-eh-van ILL-eh-seer) ~ Male ~ The Trickster, The Chameleon, The Green Changeling, The Ever-shifting Shapechanger, The Fey Jester, The Jack of the Seelie Court   <b>Portfolio:</b> Mischief, Change, and Rogues
+Fenmarel Mestarine		KEY:Fenmarel Mestarine		DOMAINS:Animal,Chaos,Plant,Travel,Trickery|PREALIGN:TN,CG,CN		DEITYWEAP:Dagger			ALIGN:CN		FACTSET:Pantheon|Elf		SOURCEPAGE:p.57			TYPE:Lesser				DESC:Fenmarel Mestarine (FEHN-muh-rel MESS-tuh-reen) ~ Male ~ The Lone Wolf   <b>Portfolio:</b> Wild Elves, Outcasts, Scapegoats, and Isolation
+Hanali Celanil			KEY:Hanali Celanil			DOMAINS:Chaos,Good,Magic,Protection|PREALIGN:NG,CG,CN				DEITYWEAP:Dagger			ALIGN:CG		FACTSET:Pantheon|Elf		SOURCEPAGE:p.71			TYPE:Intermediate		DESC:Hanali Celanil (HAN-uh-lee SELL-uh-nihl) ~ Female ~ The Heart of Gold, Winsome Rose, Archer of Love, Kiss of Romance, Lady Goldheart   <b>Portfolio:</b> Love, Romance, Beauty, Fine Arts, and Artists
+Labelas Enoreth			KEY:Labelas Enoreth			DOMAINS:Chaos,Good,Knowledge|PREALIGN:NG,CG,CN						DEITYWEAP:Quarterstaff		ALIGN:CG		FACTSET:Pantheon|Elf		SOURCEPAGE:p.102		TYPE:Intermediate		DESC:Labelas Enoreth (lab-el-as EN-or-eth) ~ Male ~ The Lifegiver, Lord of the Continuum, The One-Eyed God, The Philosopher, The Sage at Sunset   <b>Portfolio:</b> Time, Longevity, and History
+Rillifane Rallathil		KEY:Rillifane Rallathil		DOMAINS:Chaos,Good,Plant,Protection,Travel|PREALIGN:NG,CG,CN		DEITYWEAP:Quarterstaff		ALIGN:CG		FACTSET:Pantheon|Elf		SOURCEPAGE:p.142		TYPE:Intermediate		DESC:Rillifane Rallathil (RILL-ih-fayne RALL-uh-thihl) ~ Male ~ The Leaflord, The Wild One, The Great Oak, The Many-Branched, The Many-Limbed   <b>Portfolio:</b> Wood Elves, Woodlands, Nature, and Druids
+Sehanine Moonbow		KEY:Sehanine Moonbow		DOMAINS:Chaos,Good,Knowledge,Travel,Trickery|PREALIGN:NG,CG,CN		DEITYWEAP:Quarterstaff		ALIGN:CG		FACTSET:Pantheon|Elf		SOURCEPAGE:p.146		TYPE:Intermediate		DESC:Sehanine (SAY-hah-neen) ~ Female ~ The Lady of Dreams, Daughter of the Night Skies, Moonlit Mystery, The Mystic Seer, The Luminous Cloud   <b>Portfolio:</b> Mysticism, Dreams, Far Journeys, Death, Full Moons, and Transcendence
+Solonor Thelandira		KEY:Solonor Thelandira		DOMAINS:Animal,Chaos,Good,Plant,War|PREALIGN:NG,CG,CN				DEITYWEAP:Longbow			ALIGN:CG		FACTSET:Pantheon|Elf		SOURCEPAGE:p.155		TYPE:Intermediate		DESC:Solonor Thelandira (SO-lo-nohr theh-LAN-dih-ruh) ~ Male ~ Keen-Eye, The Great Archer, The Forest Hunter   <b>Portfolio:</b> Archery, Hunting, and Wilderness Survival
+Ye'Cind					KEY:Ye'Cind					DOMAINS:Chaos,Good,Knowledge,Magic|PREALIGN:NG,CG,CN				DEITYWEAP:Longsword			ALIGN:CG		FACTSET:Pantheon|Elf		SOURCEPAGE:p.191		TYPE:Demigod			DESC:Ye'Cind (yee-SIND) ~ Male ~ The Bard   <b>Portfolio:</b> Music and Magical Songs
+# *** END - Elven Deities from Living-Greyhawk-Deities-v2-0.pdf ***
+
+#
+
+# *** BEGIN - Gnome Deities from Living-Greyhawk-Deities-v2-0.pdf ***
+#Deity Name					Unique Key						Domains																Deity Weapon					Align			Pantheon					Source Page			Type					Description
+Baervan Wildwanderer		KEY:Baervan Wildwanderer		DOMAINS:Animal,Good,Plant,Travel,Trickery|PREALIGN:LG,NG,TN,CG		DEITYWEAP:Spear					ALIGN:NG		FACTSET:Pantheon|Gnome		SOURCEPAGE:p.14		TYPE:Intermediate		DESC:Baervan (BAY-ur-van) ~ Male ~ The Masked Leaf, The Forest Gnome, Father of Fish and Fungus   <b>Portfolio:</b> Forests, Nature, Travel
+Baravar Cloakshadow			KEY:Baravar Cloakshadow			DOMAINS:Good,Magic,Protection,Trickery|PREALIGN:LG,NG,TN,CG			DEITYWEAP:Dagger				ALIGN:NG		FACTSET:Pantheon|Gnome		SOURCEPAGE:p.17		TYPE:Lesser				DESC:Baravar (BARE-uh-vahr) ~ Male ~ The Sly One, Master of Illusion, Lord in Disguise, Bane of Goblinkin   <b>Portfolio:</b> Illusions, Protection, Deception, Hatred of Goblinoids
+Callarduran Smoothhands		KEY:Callarduran Smoothhands		DOMAINS:Earth,Healing,Protection|PREALIGN:LN,NG,TN,NE,CN			DEITYWEAP:Greataxe				ALIGN:TN		FACTSET:Pantheon|Gnome		SOURCEPAGE:p.30		TYPE:Intermediate		DESC:Callarduran (KAL-ur-duhr-an) ~ Male ~ Deep Brother, Master of Stone, Lord of Deepearth, The Deep Gnome   <b>Portfolio:</b> Svirfneblin, Protection, Earth, Mining, Secrecy
+Flandal Steelskin			KEY:Flandal Steelskin			DOMAINS:Earth,Fire,Good,Strength|PREALIGN:LG,NG,TN,CG				DEITYWEAP:Warhammer				ALIGN:NG		FACTSET:Pantheon|Gnome		SOURCEPAGE:p.59		TYPE:Intermediate		DESC:Flandal (FLAN-dahl) ~ Male ~ Master of Metal, Lord of Smiths, The Armorer, The Weaponsmith, The Great Steelsmith, The Pyromancer   <b>Portfolio:</b> Mining, Smithing, Fitness
+Gaerdal Ironhand			KEY:Gaerdal Ironhand			DOMAINS:Good,Law,Protection,War|PREALIGN:LG,LN,NG					DEITYWEAP:Mace (Heavy)			ALIGN:LG		FACTSET:Pantheon|Gnome		SOURCEPAGE:p.62		TYPE:Lesser				DESC:Gaerdal (GAIR-dul) ~ Male ~  The Stern, The Shield of the Golden Hills   <b>Portfolio:</b> Protection, Vigilence, Combat
+Garl Glittergold			KEY:Garl Glittergold			DOMAINS:Earth,Good,Protection,Trickery|PREALIGN:LG,NG,TN,CG			DEITYWEAP:Greataxe				ALIGN:NG		FACTSET:Pantheon|Gnome		SOURCEPAGE:p.64		TYPE:Greater			DESC:Garl (garl) ~ Male ~ The Prankster, The Joker, The Watchful Protector, The Priceless Gem, The Sparkling Wit   <b>Portfolio:</b> Gnomes, Protection, Humor, Wit, Gemcutting, Jewelrymaking, Illusion
+Segojan Earthcaller			KEY:Segojan Earthcaller			DOMAINS:Animal,Earth,Good|PREALIGN:LG,NG,TN,CG						DEITYWEAP:Mace (Heavy)			ALIGN:NG		FACTSET:Pantheon|Gnome		SOURCEPAGE:p.145	TYPE:Intermediate		DESC:Segojan (SEH-goe-jann) ~ Male ~ Earthfriend, The Rock Gnome, Lord of the Burrow, Digger of Dens, The Badger, The Wolverine   <b>Portfolio:</b> Earth, Nature
+Urdlen						KEY:Urdlen						DOMAINS:Chaos,Destruction,Earth,Evil|PREALIGN:NE,CN,CE				DEITYWEAP:Gauntlet (Spiked)		ALIGN:CE		FACTSET:Pantheon|Gnome		SOURCEPAGE:p.173	TYPE:Intermediate		DESC:Urdlen (URD-len) ~ Unknown ~ The Crawler Below, The Evil One   <b>Portfolio:</b> Greed, Bloodlust, Evil, Hatred, Blind Destruction
+# *** END - Gnome Deities from Living-Greyhawk-Deities-v2-0.pdf ***
+
+#
+
+# *** BEGIN - Halfling Deities from Living-Greyhawk-Deities-v2-0.pdf ***
+#Deity Name			Unique Key				Domains															Deity Weapon									Align			Pantheon						Source Page				Type					Description
+Arvoreen			KEY:Arvoreen			DOMAINS:Good,Law,Protection,War|PREALIGN:LG,LN,NG				DEITYWEAP:Longsword|Sword (Short)				ALIGN:LG		FACTSET:Pantheon|Halfling		SOURCEPAGE:p.11			TYPE:Intermediate		DESC:Arvoreen (ARR-voh-reen) ~ Male ~ The Defender, The Vigilant Guardian, The Wary Sword   <b>Portfolio:</b> Protection, Vigilance, War
+Brandobaris			KEY:Brandobaris			DOMAINS:Luck,Travel,Trickery|PREALIGN:LN,NG,TN,NE,CN			DEITYWEAP:Sword (Short)|Dagger					ALIGN:TN		FACTSET:Pantheon|Halfling		SOURCEPAGE:p.28			TYPE:Lesser				DESC:Brandobaris (BRAN-do-BAIR-iss) ~ Male ~ Master of Stealth, Misadventure, The Trickster, The Irrepressible Scamp, The Friendly Rapscallion   <b>Portfolio:</b> Stealth, Thieves, Adventuring
+Cyrrollalee			KEY:Cyrrollalee			DOMAINS:Good,Healing,Law,Protection|PREALIGN:LG,LN,NG			DEITYWEAP:Club									ALIGN:LG		FACTSET:Pantheon|Halfling		SOURCEPAGE:p.39			TYPE:Intermediate		DESC:Cyrrollalee (SEER-oh-LAH-lee) ~ Female ~ The Hand of Fellowship, The Faithful, The Hearthkeeper   <b>Portfolio:</b> Friendship, Trust, Home
+Sheela Peryroyl		KEY:Sheela Peryroyl		DOMAINS:Air,Earth,Plant|PREALIGN:LN,NG,TN,NE,CN					DEITYWEAP:Sickle								ALIGN:TN		FACTSET:Pantheon|Halfling		SOURCEPAGE:p.150		TYPE:Intermediate		DESC:Sheela Peryroyl (SHEE-lah PAIR-re-royl) ~ Female ~ Green Sister, The Wise, The Watchful Mother   <b>Portfolio:</b> Nature, Agriculture, Weather
+Urogalan			KEY:Urogalan			DOMAINS:Earth,Law,Protection|PREALIGN:LG,LN,LE,TN				DEITYWEAP:Flail|Flail (Heavy)|Flail (Dire)		ALIGN:LN		FACTSET:Pantheon|Halfling		SOURCEPAGE:p.174		TYPE:Demigod			DESC:Urogalan (URR-oh-GAH-lan) ~ Male ~ He Who Must Be, The Black Hound, Lord in the Earth, The Protector, The Shaper   <b>Portfolio:</b> Earth, Death, Protection of the Dead
+Yondalla			KEY:Yondalla			DOMAINS:Animal,Good,Law,Plant,Protection|PREALIGN:LG,LN,NG		DEITYWEAP:Longsword|Sword (Short)				ALIGN:LG		FACTSET:Pantheon|Halfling		SOURCEPAGE:p.192		TYPE:Greater			DESC:Yondalla (yon-DAH-lah) ~ Female ~ The Protector and Provider, The Nurturing Matriarch, The Blessed One   <b>Portfolio:</b> Halflings, Protection, Fertility
+# *** END - Halfling Deities from Living-Greyhawk-Deities-v2-0.pdf ***
+

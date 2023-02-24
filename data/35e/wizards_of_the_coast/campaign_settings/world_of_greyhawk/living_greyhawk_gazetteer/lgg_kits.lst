@@ -53,7 +53,7 @@ STARTPACK:MW Bastard Sword					EQUIPBUY:0		VISIBLE:YES	APPLY:PERMANENT
 GEAR:Sword (Bastard)		EQMOD:Masterwork (Weapon)		SIZE:PC
 
 STARTPACK:MW Battleaxe						EQUIPBUY:0		VISIBLE:YES		APPLY:PERMANENT
-GEAR:Battleaxe		QMOD:Masterwork (Weapon)		SIZE:PC
+GEAR:Battleaxe		EQMOD:Masterwork (Weapon)		SIZE:PC
 
 STARTPACK:MW Breastplate					EQUIPBUY:0		VISIBLE:YES		APPLY:PERMANENT
 GEAR:Breastplate		EQMOD:Masterwork (Armor)		SIZE:PC

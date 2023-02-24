@@ -1,7 +1,6 @@
 # CVS $Revision: $ $Author: $ -- Mon Feb 06 00:00:00 2023 -- formatted by stoneageartisans
 SOURCELONG:Living Greyhawk Gazetteer
-SOURCESHORT:LGG
-
+SOURCESHORT:LG
 
 # Regional knowledge skills
 # Local knowledge is replaced by the various regional local knowledge
@@ -70,4 +69,4 @@ Knowledge (Vesve Forest)								KEYSTAT:INT		USEUNTRAINED:NO		EXCLUSIVE:NO		TYPE
 Knowledge (Wolf Nomads)									KEYSTAT:INT		USEUNTRAINED:NO		EXCLUSIVE:NO		TYPE:Intelligence.Knowledge.Region.Standard.Base.KnowledgeLocal	SERVESAS:SKILL|Knowledge (Local)		SOURCEPAGE:p.133
 Knowledge (Yeomanry)									KEYSTAT:INT		USEUNTRAINED:NO		EXCLUSIVE:NO		TYPE:Intelligence.Knowledge.Region.Standard.Base.KnowledgeLocal	SERVESAS:SKILL|Knowledge (Local)		SOURCEPAGE:p.134
 Knowledge (Zeif)										KEYSTAT:INT		USEUNTRAINED:NO		EXCLUSIVE:NO		TYPE:Intelligence.Knowledge.Region.Standard.Base.KnowledgeLocal	SERVESAS:SKILL|Knowledge (Local)		SOURCEPAGE:p.136
-###
+
