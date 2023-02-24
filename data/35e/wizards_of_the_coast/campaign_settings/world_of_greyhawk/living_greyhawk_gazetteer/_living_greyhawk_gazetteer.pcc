@@ -25,7 +25,6 @@ LOGO:../../../../../_artwork/logo_wotc.png
 
 INFOTEXT:The Living Greyhawk Gazetteer updates the World of Greyhawk to DnD 3.0
 INFOTEXT:Some content from Forgotten Realms Campaign Setting and Player's Guide to Faerun has been copied over
-INFOTEXT:The Spell Compendium is such a major source of spells, it's easier to define that as necessary than to try and replicate so much of it here
 
 #
 
@@ -37,7 +36,6 @@ KIT:lgg_kits.lst
 LANGUAGE:lgg_languages.lst
 WEAPONPROF:lgg_profs_weapon.lst
 SKILL:lgg_skills.lst
-SPELL:lgg_spells.lst
 TEMPLATE:lgg_templates.lst
 
 HIDETYPE:SKILL|KnowledgeLocal
