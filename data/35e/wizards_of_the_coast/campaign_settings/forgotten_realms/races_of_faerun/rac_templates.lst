@@ -60,3 +60,6 @@ Gnoll Region ~ Thay Region			CSKILL:Knowledge (Thay)			VISIBLE:NO	AUTO:LANG|Comm
 
 # Automatic Halfling Warsling Proficiency
 Halfling Warsling Proficiency		OUTPUTNAME:Halfling Warsling Proficiency						VISIBLE:YES				PRERACE:1,Halfling																																																																																																																			ABILITY:FEAT|AUTOMATIC|Exotic Weapon Proficiency(Warsling (Halfling))																																																										
+
+# Automatic Halfling Skiprock Proficiency
+Halfling Skiprock Proficiency		OUTPUTNAME:Halfling Skiprock Proficiency						VISIBLE:YES				PRERACE:1,Halfling																																																																																																																			ABILITY:FEAT|AUTOMATIC|Exotic Weapon Proficiency(Skiprock)																																																										
