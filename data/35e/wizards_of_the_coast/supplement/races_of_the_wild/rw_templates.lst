@@ -1,0 +1,8 @@
+#Added by StoneAgeArtisans 02/17/25
+# Template Name	Output Name	Challenge Rating	Size	Visible	Damage Reduction	Level Adjustment	Template	Source Page	Special Ability	Required AL	Required Race	Required Template	Prohibited Template	Required Type	Save checks bonus	Combat bonus	Add to base move	Bonus to skill	Stat bonus	Weapon prof. bonus	Add	Feat	Move	Spell Res.	Type	Vision	Deprecated Spell tag	Natural Attacks
+
+# Automatic Halfling Warsling Proficiency
+Halfling Warsling Proficiency (RW)		OUTPUTNAME:Halfling Warsling Proficiency (RW)						VISIBLE:YES				PRERACE:1,Halfling																																																																																																																			ABILITY:FEAT|AUTOMATIC|Exotic Weapon Proficiency(War Sling)																																																										
+
+# Automatic Halfling Skiprock Proficiency
+Halfling Skiprock Proficiency (RW)		OUTPUTNAME:Halfling Skiprock Proficiency (RW)						VISIBLE:YES				PRERACE:1,Halfling																																																																																																																			ABILITY:FEAT|AUTOMATIC|Exotic Weapon Proficiency(Skiprock (Halfling))																																																										
