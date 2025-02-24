@@ -24,4 +24,7 @@ ABILITY:mm4_abilities_race.lst
 
 RACE:mm4_races.lst
 
+# Stone Age Artisans
+EQUIPMENT:mm4_equip.lst
+WEAPONPROF:mm4_profs_weapons.lst
 
