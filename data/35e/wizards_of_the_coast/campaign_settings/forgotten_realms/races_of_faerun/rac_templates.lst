@@ -63,3 +63,7 @@ Halfling Warsling Proficiency		OUTPUTNAME:Halfling Warsling Proficiency						VIS
 
 # Automatic Halfling Skiprock Proficiency
 Halfling Skiprock Proficiency		OUTPUTNAME:Halfling Skiprock Proficiency						VISIBLE:YES				PRERACE:1,Halfling																																																																																																																			ABILITY:FEAT|AUTOMATIC|Exotic Weapon Proficiency(Skiprock)																																																										
+
+# Automatic Orc Double Axe Proficiency
+Orc Double Axe Proficiency		OUTPUTNAME:Orc Double Axe Proficiency						VISIBLE:YES				PRERACE:1,Orc																																																																																																																			ABILITY:FEAT|AUTOMATIC|Exotic Weapon Proficiency(Axe (Orc Double))																																																										
+
