@@ -8,8 +8,8 @@ Goblin Stick		TYPE:Martial
 Harpoon			TYPE:Exotic
 Ice Axe			TYPE:Martial
 Lance (Flight)		TYPE:Martial
-Skiprock			TYPE:Exotic
-Warsling (Halfling)	TYPE:Exotic
+Skiprock		TYPE:Weapon.Exotic.Ranged.Standard.Thrown.Ammunition.Bludgeoning
+Warsling				TYPE:Weapon.Exotic.Ranged.Standard.Bludgeoning.Container.Projectile
 
 # Quick Add
 Lance (Heavy)		TYPE:Martial

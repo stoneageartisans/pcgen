@@ -27,8 +27,9 @@ LOGO:../../../../../_artwork/logo_wotc.png
 
 
 ABILITY:rac_abilities.lst
+#ABILITYCATEGORY:rac_abilitycategories.lst
 # CLASSes are all EPIC level, so need other epic rules first
-#CLASS:rac_classes.lst  # TODO - PRE INCLUDES Epic...
+CLASS:rac_classes.lst
 BIOSET:rac_biosettings.lst
 COMPANIONMOD:rac_companionmods.lst
 # Flight Arrow and Signal Arrow are in Arms and Equipment Guide

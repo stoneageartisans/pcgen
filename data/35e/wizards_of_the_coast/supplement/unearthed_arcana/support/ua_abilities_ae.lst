@@ -8,7 +8,7 @@ CATEGORY=Internal|Weapon Group Exotic Double (Flails and Chains).MOD	AUTO:WEAPON
 CATEGORY=Internal|Weapon Group Exotic Double (Heavy Blades).MOD		AUTO:WEAPONPROF|Scimitar (Double)
 CATEGORY=Internal|Weapon Group Exotic Double (Maces and Clubs).MOD	AUTO:WEAPONPROF|Mace (Double)
 #
-CATEGORY=Internal|Weapon Group Exotic (Slings and Thrown Weapons).MOD	AUTO:WEAPONPROF|Chakram|Calculus (Gnome)|Skiprock (Halfling)|Shotput (Orc)|Throwing Iron
+CATEGORY=Internal|Weapon Group Exotic (Slings and Thrown Weapons).MOD	AUTO:WEAPONPROF|Chakram|Calculus (Gnome)|Skiprock|Shotput (Orc)|Throwing Iron
 CATEGORY=Internal|Weapon Group Exotic (Spears and Lances).MOD		AUTO:WEAPONPROF|Duom|Harpoon|Manti|Javelin (Spinning)
 CATEGORY=Internal|Weapon Group Exotic (Picks and Hammers).MOD		AUTO:WEAPONPROF|Battlepick (Gnome)|Maul										BONUS:VAR|MaulExoticUse|1|TYPE=Base
 CATEGORY=Internal|Weapon Group Exotic (Monk Weapons).MOD			AUTO:WEAPONPROF|Sword (Butterfly)|Tonfa

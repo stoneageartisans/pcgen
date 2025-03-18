@@ -1,8 +1,10 @@
 #Added by StoneAgeArtisans 02/17/25
-# Template Name	Output Name	Challenge Rating	Size	Visible	Damage Reduction	Level Adjustment	Template	Source Page	Special Ability	Required AL	Required Race	Required Template	Prohibited Template	Required Type	Save checks bonus	Combat bonus	Add to base move	Bonus to skill	Stat bonus	Weapon prof. bonus	Add	Feat	Move	Spell Res.	Type	Vision	Deprecated Spell tag	Natural Attacks
+
+# Automatic Orc Double Axe Proficiency
+Orc Double Axe Proficiency		OUTPUTNAME:Orc Double Axe Proficiency						VISIBLE:YES				PRERACE:1,Orc																																																																																																																			ABILITY:FEAT|AUTOMATIC|Exotic Weapon Proficiency(Axe (Orc Double))																																																										
 
 # Automatic Halfling Warsling Proficiency
-Halfling Warsling Proficiency (RW)		OUTPUTNAME:Halfling Warsling Proficiency (RW)						VISIBLE:YES				PRERACE:1,Halfling																																																																																																																			ABILITY:FEAT|AUTOMATIC|Exotic Weapon Proficiency(War Sling)																																																										
+Halfling Warsling Proficiency		OUTPUTNAME:Halfling Warsling Proficiency						VISIBLE:YES				PRERACE:1,Halfling																																																																																																																			ABILITY:FEAT|AUTOMATIC|Exotic Weapon Proficiency(Warsling)																																																										
 
 # Automatic Halfling Skiprock Proficiency
-Halfling Skiprock Proficiency (RW)		OUTPUTNAME:Halfling Skiprock Proficiency (RW)						VISIBLE:YES				PRERACE:1,Halfling																																																																																																																			ABILITY:FEAT|AUTOMATIC|Exotic Weapon Proficiency(Skiprock (Halfling))																																																										
+Halfling Skiprock Proficiency		OUTPUTNAME:Halfling Skiprock Proficiency						VISIBLE:YES				PRERACE:1,Halfling																																																																																																																			ABILITY:FEAT|AUTOMATIC|Exotic Weapon Proficiency(Skiprock)																																																										

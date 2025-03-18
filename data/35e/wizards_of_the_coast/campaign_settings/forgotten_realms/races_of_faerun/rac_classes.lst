@@ -129,10 +129,10 @@ CLASS:Warrior Skald	STARTSKILLPTS:4	CSKILL:Bluff|Climb|Concentration|TYPE=Craft|
 # Class Name		Hit Dice	Type			Abbreviation	Max Level	Source Page		Save checks bonus												Combat bonus
 CLASS:Warsling Sniper	HD:6		TYPE:PC.Prestige	FACT:Abb|WSS		MAXLEVEL:6	SOURCEPAGE:p.187		BONUS:SAVE|BASE.Will,BASE.Fortitude|classlevel("APPLIEDAS=NONEPIC")/3		BONUS:SAVE|BASE.Reflex|classlevel("APPLIEDAS=NONEPIC")/2+2		BONUS:COMBAT|BASEAB|classlevel("APPLIEDAS=NONEPIC")|TYPE=Base.REPLACE
 # Class Name		Req. Att.	Required Feat																			Required Race		Required Skill
-CLASS:Warsling Sniper	PRETOTALAB:5	PREABILITY:4,CATEGORY=FEAT,Exotic Weapon Proficiency (Warsling (Halfling)),Exotic Weapon Proficiency (Skiprock),Point Blank Shot,Precise Shot	PRERACE:1,Halfling	PRESKILL:1,Craft (Weaponsmithing)=3	PRESKILL:1,Hide=4	PRESKILL:1,Spot=6
+CLASS:Warsling Sniper	PRETOTALAB:5	PREABILITY:4,CATEGORY=FEAT,Exotic Weapon Proficiency (Warsling),Exotic Weapon Proficiency (Skiprock),Point Blank Shot,Precise Shot	PRERACE:1,Halfling	PRESKILL:1,Craft (Weaponsmithing)=3	PRESKILL:1,Hide=4	PRESKILL:1,Spot=6
 # Class Name		Skill Pts/Lvl	Class Skill
 CLASS:Warsling Sniper	STARTSKILLPTS:2	CSKILL:Climb|TYPE=Craft|Hide|Listen|Move Silently|TYPE=Profession|Sense Motive|Spot
 1	SAB:Warsling Sneak Attack (Ex) +%d6|WarslingSneakAttack	BONUS:VAR|WarslingSneakAttack|(CL=Warsling Sniper-1)/2+1	DEFINE:WarslingSneakAttack|0
 2	SAB:Sniper's Vision (Ex)
-4																										ABILITY:FEAT|AUTOMATIC|Improved Critical(Warsling (Halfling))
+4	ABILITY:FEAT|AUTOMATIC|Improved Critical(Warsling)
 6	SAB:Improved Ricochet (Ex)

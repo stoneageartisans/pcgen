@@ -39,7 +39,7 @@ Fullblade				TYPE:Exotic.Melee.ExoticMelee.Slashing
 ##Exotic Weapons-ranged
 #Tiny
 Fukimi-bari				TYPE:Exotic.Ranged.Thrown.Piercing
-Skiprock (Halfling)		TYPE:Exotic.Ranged.Thrown.Bludgeoning
+Skiprock		TYPE:Exotic.Ranged.Thrown.Bludgeoning
 #Small
 Bolas (Two-ball)			TYPE:Exotic.Ranged.Thrown.Bludgeoning
 Calculus (Gnome)			TYPE:Exotic.Ranged.Projectile.Special
