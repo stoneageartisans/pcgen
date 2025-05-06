@@ -257,7 +257,7 @@ Hold Person.MOD	CLASSES:Bard,Cleric=2|Sorcerer,Wizard=3
 Hold Person (Mass).MOD	CLASSES:Sorcerer,Wizard=7	
 Hold Portal.MOD	CLASSES:Sorcerer,Wizard=1	
 Holy Aura.MOD	CLASSES:Cleric=8	DOMAINS:Good=8	
-Holy Smite	DOMAINS:Good=4	
+Holy Smite.MOD	DOMAINS:Good=4	
 Holy Sword.MOD	CLASSES:Paladin=4	
 Holy Word.MOD	CLASSES:Cleric=7	DOMAINS:Good=7	
 Horrid Wilting.MOD	CLASSES:Sorcerer,Wizard=8	DOMAINS:Water=8	
