@@ -66,3 +66,6 @@ Halfling Warsling Proficiency		OUTPUTNAME:Halfling Warsling Proficiency						VIS
 
 # Automatic Halfling Skiprock Proficiency
 Halfling Skiprock Proficiency		OUTPUTNAME:Halfling Skiprock Proficiency						VISIBLE:YES				PRERACE:1,Halfling																																																																																																																			ABILITY:FEAT|AUTOMATIC|Exotic Weapon Proficiency(Skiprock)																																																										
+
+# Automatic Kuo-Toa Pincer Staff Proficiency
+Kuo-Toa Pincer Staff Proficiency		OUTPUTNAME:Kuo-Toa Pincer Staff Proficiency						VISIBLE:YES				PRERACE:1,Kuo-Toa																																																																																																																			ABILITY:FEAT|AUTOMATIC|Exotic Weapon Proficiency(Pincer Staff)																																																										

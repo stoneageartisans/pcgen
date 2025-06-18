@@ -896,7 +896,7 @@ Mask of Mastery				TYPE:BodySlot_Face.Facewear.Armor of the Watching Master	COST
 Bracers of aerial combat		TYPE:BodySlot_Arms.Bracer.Array of the Manticore		COST:5000	ABILITY:Special Ability|AUTOMATIC|Equip ~ Array of the Manticore		BONUS:VAR|ArrayoftheManticoreCount|1		SPROP:(9th) +1 attack while you or foe is airborne
 Gloves of endless javelins		TYPE:BodySlot_Hands.Glove.Array of the Manticore		COST:7000	ABILITY:Special Ability|AUTOMATIC|Equip ~ Array of the Manticore		BONUS:VAR|ArrayoftheManticoreCount|1		SPROP:(11th) Create temporary +1 javelin
 Medallion of aerial defense		TYPE:BodySlot_Throat.Amulet.Array of the Manticore		COST:8000	ABILITY:Special Ability|AUTOMATIC|Equip ~ Array of the Manticore		BONUS:VAR|ArrayoftheManticoreCount|1		SPROP:(11th) DR 10/magic against ranged attacks if you or foe is airborne
-Helm of the hunter			TYPE:BodySlot_Head.Headgear.Array of the Manticore		COST:9000	ABILITY:Special Ability|AUTOMATIC|Equip ~ Array of the Manticore		BONUS:VAR|ArrayoftheManticoreCount|1		SPROP:(12th) +5 Spot; Far Shot; 1/day low-light vision and darkvision for 4 hours
+Helm of the Hunter			TYPE:BodySlot_Head.Headgear.Array of the Manticore		COST:9000	ABILITY:Special Ability|AUTOMATIC|Equip ~ Array of the Manticore		BONUS:VAR|ArrayoftheManticoreCount|1		BONUS:SKILL|Spot|5|TYPE=Competence		ABILITY:FEAT|AUTOMATIC|Far Shot		SPROP:(12th) +5 Spot; Far Shot; 1/day low-light vision and darkvision for 4 hours
 Winged vest					TYPE:BodySlot_Torso.Shirt.Array of the Manticore		COST:12000	ABILITY:Special Ability|AUTOMATIC|Equip ~ Array of the Manticore		BONUS:VAR|ArrayoftheManticoreCount|1		SPROP:(13th) 5/day fly 60 ft. (good) for 5 rounds
 
 # Five Virtues
