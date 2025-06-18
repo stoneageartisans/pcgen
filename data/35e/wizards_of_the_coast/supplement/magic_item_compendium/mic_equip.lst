@@ -196,7 +196,7 @@ Circlet of Mages							TYPE:Wondrous.Magic.Group_Clothing.BodySlot_Head.Headgear
 Circlet of Rapid Casting					TYPE:Wondrous.Magic.Group_Clothing.BodySlot_Head.Headgear		COST:15000	WT:0										SOURCELONG:Magic Item Compendium	SOURCESHORT:MIC		SOURCEPAGE:86
 Circlet of Solace							TYPE:Wondrous.Magic.Group_Clothing.BodySlot_Head.Headgear		COST:3000	WT:0										SOURCELONG:Magic Item Compendium	SOURCESHORT:MIC		SOURCEPAGE:87
 Circlet of Wild Surging						TYPE:Wondrous.Magic.Group_Clothing.BodySlot_Head.Headgear		COST:4200	WT:1										SOURCELONG:Magic Item Compendium	SOURCESHORT:MIC		SOURCEPAGE:87
-Cloak of Battle							TYPE:Wondrous.Magic.Group_Clothing.BodySlot_Shoulders.Cape		COST:22000	WT:1										SOURCELONG:Magic Item Compendium	SOURCESHORT:MIC		SOURCEPAGE:87
+Cloak of Battle							TYPE:Wondrous.Magic.Group_Clothing.BodySlot_Shoulders.Cape		COST:22000	WT:1		BONUS:COMBAT|AC|4|TYPE=Armor		SOURCELONG:Magic Item Compendium	SOURCESHORT:MIC		SOURCEPAGE:87		SPROP:+4 armor bonus to AC, turns into +1/+1 quarterstaff; 3/day disarm attempt.
 Cloak of Elemental Protection					TYPE:Wondrous.Magic.Group_Clothing.BodySlot_Shoulders.Cape		COST:1000	WT:1										SOURCELONG:Magic Item Compendium	SOURCESHORT:MIC		SOURCEPAGE:87
 Cloak of Predatory Vigor					TYPE:Wondrous.Magic.Group_Clothing.BodySlot_Shoulders.Cape		COST:1400	WT:2										SOURCELONG:Magic Item Compendium	SOURCESHORT:MIC		SOURCEPAGE:87
 Cloak of Quills							TYPE:Wondrous.Magic.Group_Clothing.BodySlot_Shoulders.Cape		COST:2500	WT:1										SOURCELONG:Magic Item Compendium	SOURCESHORT:MIC		SOURCEPAGE:87
@@ -417,11 +417,11 @@ Robe of Arcane Might (Evocation)				TYPE:Wondrous.Magic.Group_Clothing.BodySlot_
 Robe of Arcane Might (Necromancy)				TYPE:Wondrous.Magic.Group_Clothing.BodySlot_Body.Bodywear		COST:21000	WT:1										SOURCELONG:Magic Item Compendium	SOURCESHORT:MIC		SOURCEPAGE:129		BONUS:CASTERLEVEL|SCHOOL.Necromancy|1		BONUS:COMBAT|AC|4|TYPE=Armor
 Robe of Arcane Might (Transformation)				TYPE:Wondrous.Magic.Group_Clothing.BodySlot_Body.Bodywear		COST:21000	WT:1										SOURCELONG:Magic Item Compendium	SOURCESHORT:MIC		SOURCEPAGE:129		BONUS:CASTERLEVEL|SCHOOL.Transformation|1	BONUS:COMBAT|AC|4|TYPE=Armor
 
-Robe of the Inferno						TYPE:Wondrous.Magic.Group_Clothing.BodySlot_Body.Bodywear		COST:37000	WT:1										SOURCELONG:Magic Item Compendium	SOURCESHORT:MIC		SOURCEPAGE:129
+Robe of the Inferno						TYPE:Wondrous.Magic.Group_Clothing.BodySlot_Body.Bodywear		COST:37000	WT:1		BONUS:COMBAT|AC|4|TYPE=Armor		SOURCELONG:Magic Item Compendium	SOURCESHORT:MIC		SOURCEPAGE:129		SPROP:+4 armor bonus to AC; create fiery orbs that can be thrown.
 Robe of Mysterious Conjuration				TYPE:Wondrous.Magic.Group_Clothing.BodySlot_Body.Bodywear		COST:10000	WT:2										SOURCELONG:Magic Item Compendium	SOURCESHORT:MIC		SOURCEPAGE:130
 Robe of Retaliation						TYPE:Wondrous.Magic.Group_Clothing.BodySlot_Body.Bodywear		COST:6500	WT:2										SOURCELONG:Magic Item Compendium	SOURCESHORT:MIC		SOURCEPAGE:130
 Rock Boots								TYPE:Wondrous.Magic.Group_Clothing.BodySlot_Feet.Footwear		COST:2000	WT:1										SOURCELONG:Magic Item Compendium	SOURCESHORT:MIC		SOURCEPAGE:130
-Rogue's Vest							TYPE:Wondrous.Magic.Group_Clothing.BodySlot_Torso.Shirt		COST:18000	WT:1										SOURCELONG:Magic Item Compendium	SOURCESHORT:MIC		SOURCEPAGE:130
+Rogue's Vest							TYPE:Wondrous.Magic.Group_Clothing.BodySlot_Torso.Shirt		COST:18000	WT:1		BONUS:SKILL|Hide,Move Silently|2|TYPE=Competence		BONUS:SAVE|Reflex|2|TYPE=Competence		SOURCELONG:Magic Item Compendium	SOURCESHORT:MIC		SOURCEPAGE:130		SPROP:While wearing this vest, you gain a +2 competence bonus on Hide and Move Silently checks, and a +2 competence bonus on Reflex saves. In addition, if you have the skirmish, sneak attack, or sudden strike ability, you deal an extra 1d6 points of damage when making such an attack.
 Ruby Cincture of Immutability					TYPE:Wondrous.Magic.Group_Clothing.BodySlot_Waist.Belt		COST:12000	WT:0										SOURCELONG:Magic Item Compendium	SOURCESHORT:MIC		SOURCEPAGE:131
 Safewing Emblem							TYPE:Wondrous.Magic.Group_Clothing.BodySlot_Throat.Neckwear		COST:250	WT:0										SOURCELONG:Magic Item Compendium	SOURCESHORT:MIC		SOURCEPAGE:131
 Sandals of Springing						TYPE:Wondrous.Magic.Group_Clothing.BodySlot_Feet.Footwear		COST:10000	WT:1										SOURCELONG:Magic Item Compendium	SOURCESHORT:MIC		SOURCEPAGE:131
@@ -439,7 +439,7 @@ Shirt of Angels							TYPE:Wondrous.Magic.Group_Clothing.BodySlot_Torso.Shirt		C
 Shirt of Bone							TYPE:Wondrous.Magic.Group_Clothing.BodySlot_Torso.Shirt		COST:9000	WT:1										SOURCELONG:Magic Item Compendium	SOURCESHORT:MIC		SOURCEPAGE:134
 Shirt of Chains							TYPE:Wondrous.Magic.Group_Clothing.BodySlot_Torso.Shirt		COST:9000	WT:1										SOURCELONG:Magic Item Compendium	SOURCESHORT:MIC		SOURCEPAGE:134
 Shirt of Demonskin						TYPE:Wondrous.Magic.Group_Clothing.BodySlot_Torso.Shirt		COST:15000	WT:1										SOURCELONG:Magic Item Compendium	SOURCESHORT:MIC		SOURCEPAGE:134
-Shirt of the Fey							TYPE:Wondrous.Magic.Group_Clothing.BodySlot_Torso.Shirt		COST:15000	WT:1										SOURCELONG:Magic Item Compendium	SOURCESHORT:MIC		SOURCEPAGE:134
+Shirt of the Fey							TYPE:Wondrous.Magic.Group_Clothing.BodySlot_Torso.Shirt		COST:15000	WT:1		DR:3/Cold Iron								SOURCELONG:Magic Item Compendium	SOURCESHORT:MIC		SOURCEPAGE:134		SPROP:When donned, a shirt of the fey fades away, becoming almost impossible to see. This shirt grants you damage reduction 3/cold iron.
 Shirt of the Inevitable						TYPE:Wondrous.Magic.Group_Clothing.BodySlot_Torso.Shirt		COST:15000	WT:10										SOURCELONG:Magic Item Compendium	SOURCESHORT:MIC		SOURCEPAGE:134
 Shirt of Ironskin							TYPE:Wondrous.Magic.Group_Clothing.BodySlot_Torso.Shirt		COST:15000	WT:10										SOURCELONG:Magic Item Compendium	SOURCESHORT:MIC		SOURCEPAGE:135
 Shirt of the Leech						TYPE:Wondrous.Magic.Group_Clothing.BodySlot_Torso.Shirt		COST:8000	WT:1										SOURCELONG:Magic Item Compendium	SOURCESHORT:MIC		SOURCEPAGE:135
@@ -498,11 +498,11 @@ Veil of Allure							TYPE:Wondrous.Magic.Group_Clothing.BodySlot_Face.Facewear		
 Vest of the Archmagi						TYPE:Wondrous.Magic.Group_Clothing.BodySlot_Torso.Shirt		COST:200000	WT:2										SOURCELONG:Magic Item Compendium	SOURCESHORT:MIC		SOURCEPAGE:145
 Vest of Defense							TYPE:Wondrous.Magic.Group_Clothing.BodySlot_Torso.Shirt		COST:2000	WT:1										SOURCELONG:Magic Item Compendium	SOURCESHORT:MIC		SOURCEPAGE:146
 Vest of the Master Evoker					TYPE:Wondrous.Magic.Group_Clothing.BodySlot_Torso.Shirt		COST:10000	WT:2										SOURCELONG:Magic Item Compendium	SOURCESHORT:MIC		SOURCEPAGE:146
-Vest of Resistance (+1)						TYPE:Wondrous.Magic.Group_Clothing.BodySlot_Torso.Shirt		COST:1000	WT:1										SOURCELONG:Magic Item Compendium	SOURCESHORT:MIC		SOURCEPAGE:147
-Vest of Resistance (+2)						TYPE:Wondrous.Magic.Group_Clothing.BodySlot_Torso.Shirt		COST:4000	WT:1										SOURCELONG:Magic Item Compendium	SOURCESHORT:MIC		SOURCEPAGE:147
-Vest of Resistance (+3)						TYPE:Wondrous.Magic.Group_Clothing.BodySlot_Torso.Shirt		COST:9000	WT:1										SOURCELONG:Magic Item Compendium	SOURCESHORT:MIC		SOURCEPAGE:147
-Vest of Resistance (+4)						TYPE:Wondrous.Magic.Group_Clothing.BodySlot_Torso.Shirt		COST:16000	WT:1										SOURCELONG:Magic Item Compendium	SOURCESHORT:MIC		SOURCEPAGE:147
-Vest of Resistance (+5)						TYPE:Wondrous.Magic.Group_Clothing.BodySlot_Torso.Shirt		COST:25000	WT:1										SOURCELONG:Magic Item Compendium	SOURCESHORT:MIC		SOURCEPAGE:147
+Vest of Resistance (+1)						TYPE:Wondrous.Magic.Group_Clothing.BodySlot_Torso.Shirt		COST:1000	WT:1		BONUS:SAVE|ALL|1|TYPE=Resistance					SOURCELONG:Magic Item Compendium	SOURCESHORT:MIC		SOURCEPAGE:147
+Vest of Resistance (+2)						TYPE:Wondrous.Magic.Group_Clothing.BodySlot_Torso.Shirt		COST:4000	WT:1		BONUS:SAVE|ALL|2|TYPE=Resistance					SOURCELONG:Magic Item Compendium	SOURCESHORT:MIC		SOURCEPAGE:147
+Vest of Resistance (+3)						TYPE:Wondrous.Magic.Group_Clothing.BodySlot_Torso.Shirt		COST:9000	WT:1		BONUS:SAVE|ALL|3|TYPE=Resistance					SOURCELONG:Magic Item Compendium	SOURCESHORT:MIC		SOURCEPAGE:147
+Vest of Resistance (+4)						TYPE:Wondrous.Magic.Group_Clothing.BodySlot_Torso.Shirt		COST:16000	WT:1		BONUS:SAVE|ALL|4|TYPE=Resistance					SOURCELONG:Magic Item Compendium	SOURCESHORT:MIC		SOURCEPAGE:147
+Vest of Resistance (+5)						TYPE:Wondrous.Magic.Group_Clothing.BodySlot_Torso.Shirt		COST:25000	WT:1		BONUS:SAVE|ALL|5|TYPE=Resistance					SOURCELONG:Magic Item Compendium	SOURCESHORT:MIC		SOURCEPAGE:147
 Vestments of Ebonsilk						TYPE:Relic.Wondrous.Magic.Group_Clothing.BodySlot_Torso.Shirt	COST:5000	WT:1										SOURCELONG:Magic Item Compendium	SOURCESHORT:MIC		SOURCEPAGE:147
 Wand Bracelet							TYPE:Wondrous.Magic.Group_Clothing.BodySlot_Arms.Armwear		COST:12000	WT:0										SOURCELONG:Magic Item Compendium	SOURCESHORT:MIC		SOURCEPAGE:147
 War Wizard Cloak							TYPE:Wondrous.Magic.Group_Clothing.BodySlot_Shoulders.Cape		COST:16000	WT:1										SOURCELONG:Magic Item Compendium	SOURCESHORT:MIC		SOURCEPAGE:147
@@ -896,7 +896,7 @@ Mask of Mastery				TYPE:BodySlot_Face.Facewear.Armor of the Watching Master	COST
 Bracers of aerial combat		TYPE:BodySlot_Arms.Bracer.Array of the Manticore		COST:5000	ABILITY:Special Ability|AUTOMATIC|Equip ~ Array of the Manticore		BONUS:VAR|ArrayoftheManticoreCount|1		SPROP:(9th) +1 attack while you or foe is airborne
 Gloves of endless javelins		TYPE:BodySlot_Hands.Glove.Array of the Manticore		COST:7000	ABILITY:Special Ability|AUTOMATIC|Equip ~ Array of the Manticore		BONUS:VAR|ArrayoftheManticoreCount|1		SPROP:(11th) Create temporary +1 javelin
 Medallion of aerial defense		TYPE:BodySlot_Throat.Amulet.Array of the Manticore		COST:8000	ABILITY:Special Ability|AUTOMATIC|Equip ~ Array of the Manticore		BONUS:VAR|ArrayoftheManticoreCount|1		SPROP:(11th) DR 10/magic against ranged attacks if you or foe is airborne
-Helm of the Hunter			TYPE:BodySlot_Head.Headgear.Array of the Manticore		COST:9000	ABILITY:Special Ability|AUTOMATIC|Equip ~ Array of the Manticore		BONUS:VAR|ArrayoftheManticoreCount|1		BONUS:SKILL|Spot|5|TYPE=Competence		ABILITY:FEAT|AUTOMATIC|Far Shot		SPROP:(12th) +5 Spot; Far Shot; 1/day low-light vision and darkvision for 4 hours
+Helm of the Hunter			TYPE:BodySlot_Head.Headgear.Array of the Manticore		COST:9000	ABILITY:Special Ability|AUTOMATIC|Equip ~ Array of the Manticore		BONUS:VAR|ArrayoftheManticoreCount|1		BONUS:SKILL|Spot|5|TYPE=Competence		ABILITY:Feat|VIRTUAL|Far Shot		SPROP:(12th) +5 Spot; Far Shot; 1/day low-light vision and darkvision for 4 hours
 Winged vest					TYPE:BodySlot_Torso.Shirt.Array of the Manticore		COST:12000	ABILITY:Special Ability|AUTOMATIC|Equip ~ Array of the Manticore		BONUS:VAR|ArrayoftheManticoreCount|1		SPROP:(13th) 5/day fly 60 ft. (good) for 5 rounds
 
 # Five Virtues
@@ -918,7 +918,7 @@ Mantle of the predator			TYPE:BodySlot_Shoulders.Cape.Garb of the Hunting Cat		C
 
 # Gharyn's Monastic Array
 Cobra straps				TYPE:BodySlot_Feet.Boot.Gharyn's Monastic Array			COST:1400	ABILITY:Special Ability|AUTOMATIC|Equip ~ Gharyn's Monastic Array		BONUS:VAR|GharynsMonasticArrayCount|1		SPROP:(5th) 1/day move 5 feet after charge
-Panther mask				TYPE:BodySlot_Face.Facewear.Gharyn's Monastic Array		COST:2700	ABILITY:Special Ability|AUTOMATIC|Equip ~ Gharyn's Monastic Array		BONUS:VAR|GharynsMonasticArrayCount|1		SPROP:(7th) Run; +5-ft. bonus to speed in light or no armor
+Panther mask				TYPE:BodySlot_Face.Facewear.Gharyn's Monastic Array		COST:2700	ABILITY:Special Ability|AUTOMATIC|Equip ~ Gharyn's Monastic Array		BONUS:VAR|GharynsMonasticArrayCount|1		BONUS:MOVEADD|TYPE.Walk|5|TYPE=FastMove.STACK|!PREARMORTYPE:1,TYPE.Medium,TYPE.Heavy		SPROP:(7th) Run; +5-ft. bonus to speed in light or no armor
 # Grab Kama weapon stats
 Kama.COPY=Scorpion kama
 Scorpion kama.MOD				TYPE:BodySlot_held.Weapon.Melee.Gharyn's Monastic Array	COST:6302	ABILITY:Special Ability|AUTOMATIC|Equip ~ Gharyn's Monastic Array		BONUS:VAR|GharynsMonasticArrayCount|1		SPROP:(10th) +1 kama deals unarmed strike damage
