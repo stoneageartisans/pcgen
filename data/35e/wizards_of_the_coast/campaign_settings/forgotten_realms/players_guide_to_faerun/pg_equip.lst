@@ -15,4 +15,4 @@ Gold Bar (50 gp)				OUTPUTNAME:[NAME] Pearl				TYPE:Gem	COST:50		WT:0
 
 Lance (Flight)		TYPE:Equipment	SPROP:Incomplete
 Longbow (Aquatic)		TYPE:Equipment	SPROP:Incomplete
-Pincer Staff		TYPE:Equipment	SPROP:Incomplete
+#Pincer Staff		TYPE:Equipment	SPROP:Incomplete

@@ -173,3 +173,22 @@ Trainable				KEY:Thrum Worm ~ Trainable				CATEGORY:Special Ability	TYPE:Thrum W
 
 
 Avarice												CATEGORY:Ability Focus		TYPE:Ability Focus
+
+
+###
+
+# Improved Weapon Familiarity ~ Dwarf
+Improved Weapon Familiarity ~ Dwarf		CATEGORY:Internal		AUTO:WEAPONPROF|TYPE=Dwarven		
+
+# Improved Weapon Familiarity ~ Elf
+Improved Weapon Familiarity ~ Elf		CATEGORY:Internal		AUTO:WEAPONPROF|TYPE=Elven		
+
+# Improved Weapon Familiarity ~ Gnome
+Improved Weapon Familiarity ~ Gnome		CATEGORY:Internal		AUTO:WEAPONPROF|TYPE=Gnome		
+
+# Improved Weapon Familiarity ~ Half-Orc
+Improved Weapon Familiarity ~ Half-Orc		CATEGORY:Internal		AUTO:WEAPONPROF|TYPE=Orc		
+
+# Improved Weapon Familiarity ~ Halfling
+Improved Weapon Familiarity ~ Halfling		CATEGORY:Internal		AUTO:WEAPONPROF|TYPE=Halfling		
+

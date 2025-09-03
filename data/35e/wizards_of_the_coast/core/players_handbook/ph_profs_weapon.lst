@@ -81,7 +81,7 @@ Sword (Bastard)			TYPE:Exotic.Melee.OneHanded.Martial.ExoticMelee.MartialMelee
 Waraxe (Dwarven)			TYPE:Exotic.Melee.OneHanded.ExoticMelee
 Whip					TYPE:Exotic.Melee.OneHanded.ExoticMelee
 #- Two-Handed
-Axe (Orc Double)			TYPE:Exotic.Melee.TwoHanded.ExoticMelee
+Axe (Orc Double)			TYPE:Exotic.Melee.TwoHanded.ExoticMelee.Orc
 Chain (Spiked)			TYPE:Exotic.Melee.TwoHanded.ExoticMelee
 Flail (Dire)			TYPE:Exotic.Melee.TwoHanded.ExoticMelee
 Hammer (Gnome Hooked)		TYPE:Exotic.Melee.TwoHanded.ExoticMelee

@@ -15,3 +15,6 @@ Gargun ~ Class		VISIBLE:NO	BONUS:STAT|STR|2|TYPE=Racial	BONUS:STAT|INT|-2|TYPE=R
 Stonechild Choice		TEMPLATE:CHOOSE:Stonechild ~ Standard|Stonechild ~ Class	FAVOREDCLASS:Fighter	AUTO:LANG|Common|Terran	LANGBONUS:Celestial,Dwarven,Ignan
 Stonechild ~ Standard		VISIBLE:NO	LEVELADJUSTMENT:4	ADDLEVEL:Outsider|2	ABILITY:Special Ability|AUTOMATIC|TYPE=Stonechild Race Trait		BONUS:STAT|STR|8|TYPE=Racial	BONUS:STAT|CON|8|TYPE=Racial	BONUS:STAT|INT|2|TYPE=Racial	BONUS:STAT|CHA|-2|TYPE=Racial
 Stonechild ~ Class		VISIBLE:NO	BONUS:STAT|CON|2	BONUS:STAT|INT|2	BONUS:STAT|CHA|-2	ABILITY:Special Ability|AUTOMATIC|Stonechild ~ Immunity to Acid and Poison
+
+# Exotic Weapon Familiarity ~ Half-Orc
+Exotic Weapon Familiarity ~ Half-Orc		OUTPUTNAME:Half-Orc Exotic Weapon Familiarity		VISIBLE:YES		PRERACE:1,Half-Orc		PREABILITY:1,CATEGORY=FEAT,Improved Weapon Familiarity		AUTO:WEAPONPROF|TYPE=Orc		

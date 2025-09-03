@@ -24,6 +24,7 @@ COVER:../../../../_artwork/cover_35e_wotc_du.jpg
 LOGO:../../../../_artwork/logo_wotc.png
 
 ABILITY:du_abilities.lst
+ABILITY:du_abilities_class.lst
 ABILITYCATEGORY:du_abilitycategories.lst
 CLASS:du_classes.lst
 COMPANIONMOD:du_companionmods.lst
