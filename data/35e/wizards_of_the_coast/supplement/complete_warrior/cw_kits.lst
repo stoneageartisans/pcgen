@@ -1,0 +1,5 @@
+###Block: PC 1st level
+STARTPACK:PC Funds Lv 1 (Hexblade,Samurai,Swashbuckler)		APPLY:INSTANT		
+FUNDS:gp		QTY:50		PRECLASS:1,Samurai=1
+FUNDS:gp		QTY:150		PRECLASS:1,Hexblade=1,Swashbuckler=1
+

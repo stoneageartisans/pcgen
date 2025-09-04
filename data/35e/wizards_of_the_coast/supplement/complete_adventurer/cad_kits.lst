@@ -1,0 +1,5 @@
+###Block: PC 1st level
+STARTPACK:PC Funds Lv 1 (Ninja,Scout,Spellthief)		APPLY:INSTANT		
+FUNDS:gp		QTY:100		PRECLASS:1,Ninja=1,Spellthief=1
+FUNDS:gp		QTY:125		PRECLASS:1,Scout=1
+

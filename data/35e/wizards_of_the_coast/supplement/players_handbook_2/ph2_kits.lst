@@ -1,0 +1,5 @@
+###Block: PC 1st level
+STARTPACK:PC Funds Lv 1 (Beguiler,Dragon Shaman,Duskblade,Knight)		APPLY:INSTANT		
+FUNDS:gp		QTY:100		PRECLASS:1,Dragon Shaman=1
+FUNDS:gp		QTY:150		PRECLASS:1,Beguiler=1,Duskblade=1,Knight=1
+

@@ -30,6 +30,7 @@ CLASS:ph2_classes.lst
 ABILITY:ph2_feats.lst
 SKILL:ph2_skills.lst
 SPELL:ph2_spells.lst
+KIT:ph2_kits.lst
 TEMPLATE:ph2_templates.lst
 
 # SC has these spells that the Duskblade uses

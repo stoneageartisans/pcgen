@@ -1,0 +1,22 @@
+CAMPAIGN:Dragon Magazine 346
+GAMEMODE:35e|Bahamut35e
+PRECAMPAIGN:1,INCLUDESBOOKTYPE=Core35e
+PRECAMPAIGN:1,INCLUDES=Complete Adventurer
+TYPE:Paizo.Supplement
+
+GENRE:Fantasy
+BOOKTYPE:Supplement
+SETTING:Fantasy
+STATUS:ALPHA
+PUBNAMELONG:Paizo
+PUBNAMESHORT:Paizo
+PUBNAMEWEB:http://www.Paizo.com
+SOURCELONG:Dragon Magazine 346
+SOURCESHORT:DM346
+SOURCEWEB:http://www.paizo.com
+SOURCEDATE:2007-08
+RANK:200708
+ISOGL:NO
+INFOTEXT:Information from the book "Dragon Magazine 346"
+
+ABILITY:dm346_feats.lst

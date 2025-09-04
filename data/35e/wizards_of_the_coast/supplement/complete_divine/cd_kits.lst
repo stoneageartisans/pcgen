@@ -1,0 +1,5 @@
+###Block: PC 1st level
+STARTPACK:PC Funds Lv 1 (Favored Soul,Shugenja,Spirit Shaman)		APPLY:INSTANT		
+FUNDS:gp		QTY:50		PRECLASS:1,Favored Soul=1
+FUNDS:gp		QTY:25		PRECLASS:1,Shugenja=1,Spirit Shaman=1
+

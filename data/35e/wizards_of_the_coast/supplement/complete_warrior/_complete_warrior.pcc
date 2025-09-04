@@ -39,6 +39,7 @@ WEAPONPROF:cw_profs_weapon.lst
 RACE:cw_races.lst
 SKILL:cw_skills.lst
 SPELL:cw_spells.lst
+KIT:cw_kits.lst
 TEMPLATE:cw_templates.lst
 ABILITY:cw_feat_esmite.lst
 

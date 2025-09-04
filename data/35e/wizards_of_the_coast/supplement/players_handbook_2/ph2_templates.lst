@@ -1,7 +1,15 @@
+###Block: Generated Funds
+Funds - PC.MOD		PRECLASS:1,TYPE.Base=1		VISIBLE:NO	KIT:1|PC Funds Lv 1 (Beguiler,Dragon Shaman,Duskblade,Knight)		DESC:Adds starting funds for PC
 
+###Block: First Level
+First Level ~ Beguiler	TYPE:First Level	TEMPLATE:CHOOSE:Funds - PC|Funds - NPC|Funds - None	PRECLASS:1,Beguiler=1	VISIBLE:NO	DESC:Specify initial starting funds for class Beguiler
+First Level ~ Dragon Shaman	TYPE:First Level	TEMPLATE:CHOOSE:Funds - PC|Funds - NPC|Funds - None	PRECLASS:1,Dragon Shaman=1	VISIBLE:NO	DESC:Specify initial starting funds for class Dragon Shaman
+First Level ~ Duskblade	TYPE:First Level	TEMPLATE:CHOOSE:Funds - PC|Funds - NPC|Funds - None	PRECLASS:1,Duskblade=1	VISIBLE:NO	DESC:Specify initial starting funds for class Duskblade
+First Level ~ Knight	TYPE:First Level	TEMPLATE:CHOOSE:Funds - PC|Funds - NPC|Funds - None	PRECLASS:1,Knight=1	VISIBLE:NO	DESC:Specify initial starting funds for class Knight
 
 
 Favored Class ~ Duskblade		VISIBLE:NO	TYPE:FavoredClass		FAVOREDCLASS:Duskblade
 Favored Class ~ Beguiler		VISIBLE:NO	TYPE:FavoredClass		FAVOREDCLASS:Beguiler
 Favored Class ~ Dragon Shaman		VISIBLE:NO	TYPE:FavoredClass		FAVOREDCLASS:Dragon Shaman
 Favored Class ~ Knight			VISIBLE:NO	TYPE:FavoredClass		FAVOREDCLASS:Knight
+

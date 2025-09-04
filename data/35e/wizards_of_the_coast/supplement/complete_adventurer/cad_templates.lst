@@ -1,0 +1,8 @@
+###Block: Generated Funds
+Funds - PC.MOD		PRECLASS:1,TYPE.Base=1		VISIBLE:NO	KIT:1|PC Funds Lv 1 (Ninja,Scout,Spellthief)		DESC:Adds starting funds for PC
+
+###Block: First Level
+First Level ~ Ninja	TYPE:First Level	TEMPLATE:CHOOSE:Funds - PC|Funds - NPC|Funds - None	PRECLASS:1,Ninja=1	VISIBLE:NO	DESC:Specify initial starting funds for class Ninja
+First Level ~ Scout	TYPE:First Level	TEMPLATE:CHOOSE:Funds - PC|Funds - NPC|Funds - None	PRECLASS:1,Scout=1	VISIBLE:NO	DESC:Specify initial starting funds for class Scout
+First Level ~ Spellthief	TYPE:First Level	TEMPLATE:CHOOSE:Funds - PC|Funds - NPC|Funds - None	PRECLASS:1,Spellthief=1	VISIBLE:NO	DESC:Specify initial starting funds for class Spellthief
+

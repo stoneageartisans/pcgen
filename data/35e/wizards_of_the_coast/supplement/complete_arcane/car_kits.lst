@@ -166,3 +166,11 @@ STARTPACK:Spell Object - Water Grue	VISIBLE:YES	APPLY:INSTANT	EQUIPBUY:0
 SELECT:roll("1d100")
 GEAR:Spell Object (Resist Energy)	OPTION:1,70
 GEAR:Spell Object (Sleet Storm)	OPTION:71,100
+
+
+###Block: PC 1st level
+STARTPACK:PC Funds Lv 1 (Warlock,Warmage,Wu Jen)		APPLY:INSTANT		
+FUNDS:gp		QTY:25		PRECLASS:1,Warmage=1
+FUNDS:gp		QTY:75		PRECLASS:1,Wu Jen=1
+FUNDS:gp		QTY:100		PRECLASS:1,Warlock=1
+

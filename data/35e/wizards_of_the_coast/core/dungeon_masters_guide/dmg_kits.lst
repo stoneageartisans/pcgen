@@ -118,12 +118,12 @@ STARTPACK:PC Funds Lv 20	APPLY:INSTANT
 FUNDS:gp	QTY:180000
 
 ###Block: PC 1st level
-STARTPACK:PC Funds Lv 1	APPLY:INSTANT			
-FUNDS:gp	QTY:10*roll("2d4")	PRECLASS:1,Druid=1
-FUNDS:gp	QTY:10*roll("3d4")	PRECLASS:1,Sorcerer=1,Wizard=1
-FUNDS:gp	QTY:10*roll("4d4")	PRECLASS:1,Barbarian=1,Bard=1
-FUNDS:gp	QTY:10*roll("5d4")	PRECLASS:1,Cleric=1,Rogue=1
-FUNDS:gp	QTY:10*roll("6d4")	PRECLASS:1,Fighter=1,Paladin=1,Ranger=1
-FUNDS:gp	QTY:roll("5d4")		PRECLASS:1,Monk=1
+STARTPACK:PC Funds Lv 1		APPLY:INSTANT		
+FUNDS:gp		QTY:50		PRECLASS:1,Druid=1
+FUNDS:gp		QTY:75		PRECLASS:1,Sorcerer=1,Wizard=1
+FUNDS:gp		QTY:100		PRECLASS:1,Barbarian=1,Bard=1
+FUNDS:gp		QTY:125		PRECLASS:1,Cleric=1,Rogue=1
+FUNDS:gp		QTY:150		PRECLASS:1,Fighter=1,Paladin=1,Ranger=1
+FUNDS:gp		QTY:13		PRECLASS:1,Monk=1
 
 

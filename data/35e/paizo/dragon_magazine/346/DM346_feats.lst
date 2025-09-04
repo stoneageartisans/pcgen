@@ -1,0 +1,7 @@
+#
+# Dragon Magazine 346 feats
+#
+SOURCELONG:DM346
+SOURCESHORT:Dragon Magazine 346
+
+Ranged Skirmisher		CATEGORY:Feat		TYPE:General.Scout		VISIBLE:YES		PREABILITY:1,CATEGORY=Special Ability,TYPE.Skirmish		PREABILITY:2,CATEGORY=FEAT,Point Blank Shot,Far Shot		PRESTAT:2,DEX=15,WIS=13		DESC:You have extensive training in making ranged attacks while skirmishing. Prerequisites: Dex 15, Wis 13, Far Shot, Point Blank Shot, skirmish ability.		SOURCEPAGE:p.87		BENEFIT:You may apply the extra damage from the skirmish ability to ranged attacks made against targets within 60 feet.		

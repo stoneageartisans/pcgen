@@ -30,7 +30,7 @@ DEITY:cd_deities.lst
 DOMAIN:cd_domains.lst
 ABILITY:cd_feats.lst
 ABILITY:cd_feats_ismite.lst
-
+KIT:cd_kits.lst
 SPELL:cd_spells.lst
 TEMPLATE:cd_templates.lst
 

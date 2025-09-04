@@ -33,6 +33,8 @@ COMPANIONMOD:cad_companionmods.lst
 EQUIPMENT:cad_equip.lst
 EQUIPMOD:cad_equipmods.lst
 ABILITY:cad_feats.lst
+KIT:cad_kits.lst
+TEMPLATE:cad_templates.lst
 WEAPONPROF:cad_profs_weapon.lst
 RACE:cad_races.lst
 SKILL:cad_skills.lst
