@@ -1,4 +1,6 @@
 
+###Block:
+Elvencraft Bow		KEY:Elvencraft Bow		COST:0	TYPE:Bow	VISIBLE:QUALIFY	PRETYPE:1,Bow	ITYPE:Elvencraft	BONUS:ITEMCOST|TYPE.Bow|300		
 
 
 Leafweave			KEY:LEAFWV_PAD_ARMR		TYPE:BaseMaterial.MasterworkQuality.Armor		COST:740		VISIBLE:QUALIFY	ITYPE:Nonmetal.Leafweave.Masterwork	REPLACES:Masterwork (Armor)	SOURCEPAGE:p.168		PRETYPE:2,Light,Padded				BONUS:EQMARMOR|SPELLFAILURE|-5|TYPE=Enhancement	BONUS:EQMARMOR|MAXDEX|1	BONUS:EQMARMOR|ACCHECK|2|TYPE=Enhancement	BONUS:EQM|WEIGHTADD|-2	SPROP:5hp/inch and 2 hardness
