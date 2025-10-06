@@ -6,5 +6,8 @@ ABILITYCATEGORY:Elemental Archon Class Feature		VISIBLE:QUALIFY		EDITABLE:NO	EDI
 #ABILITYCATEGORY:Mephit Underling Selection		VISIBLE:QUALIFY		EDITABLE:YES	EDITPOOL:NO		CATEGORY:Internal		TYPE:MephitUnderlingSelection		PLURAL:Mephit Underling Choice			DISPLAYLOCATION:Class Features
 
 
+### Added by BigDoody on 10-06-2025
+
+ABILITYCATEGORY:Silverstar Class Feature		VISIBLE:QUALIFY	EDITABLE:YES	EDITPOOL:NO		CATEGORY:Special Ability	TYPE:Silverstar Class Feature									PLURAL:Silverstar Class Features			DISPLAYLOCATION:Class Features
 
 

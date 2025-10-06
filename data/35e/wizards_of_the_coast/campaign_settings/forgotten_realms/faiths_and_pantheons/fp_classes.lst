@@ -80,3 +80,28 @@ SUBCLASSLEVEL:7		ABILITY:Elemental Archon Class Feature|AUTOMATIC|Elemental Arch
 10	ADD:SPELLCASTER|ANY
 
 
+### Added by BigDoody on 10-06-2025
+
+# Silverstar
+CLASS:Silverstar	MAXLEVEL:10
+CLASS:Silverstar	HD:8	TYPE:Prestige	SOURCEPAGE:p.201	DEFINE:SilverstarLVL|0	BONUS:VAR|SilverstarLVL|CL
+CLASS:Silverstar	BONUS:COMBAT|BASEAB|classlevel("APPLIEDAS=NONEPIC")*3/4|TYPE=Base.REPLACE|PREVAREQ:UseAlternateBABProgression,0
+CLASS:Silverstar	BONUS:VAR|ClassBABModerate|classlevel("APPLIEDAS=NONEPIC")|PREVAREQ:UseFractionalBAB,1
+CLASS:Silverstar	BONUS:SAVE|BASE.Fortitude|classlevel("APPLIEDAS=NONEPIC")/2+2
+CLASS:Silverstar	BONUS:SAVE|BASE.Reflex|classlevel("APPLIEDAS=NONEPIC")/3
+CLASS:Silverstar	BONUS:SAVE|BASE.Will|classlevel("APPLIEDAS=NONEPIC")/2+2
+CLASS:Silverstar	PRETEXT:Alignment: Chaotic good. Base Attack Bonus: +4. Skills: Sense Motive 2 ranks, Survival 2 ranks. Feat: Blind-Fight, Dodge, Mobility, Spring Attack. Spells: Able to cast 2nd-level divine spells and access to the Moon domain. Special: Must have Selune as patron deity.	PRESPELLTYPE:1,Divine=2	PREALIGN:CG	PRETOTALAB:4	PRESKILL:2,Sense Motive=2,Survival=2	PREDEITY:1,Selune	PREABILITY:4,CATEGORY=Feat,Blind-Fight,Dodge,Mobility,Spring Attack
+CLASS:Silverstar	STARTSKILLPTS:2	CSKILL:Concentration|TYPE=Craft|Diplomacy|Heal|Knowledge (Arcana)|Knowledge (Geography)|Knowledge (Local)|Knowledge (Nature)|Knowledge (The Planes)|Knowledge (Religion)|TYPE=Profession|Sense Motive|Spellcraft|Survival
+1:REPEATLEVEL:1	ADD:SPELLCASTER|Divine
+###Block
+11	PREPCLEVEL:MIN=20
+###Block	
+2	ABILITY:Silverstar Class Feature|AUTOMATIC|Silverstar ~ Lunar Sight
+3	ABILITY:Silverstar Class Feature|AUTOMATIC|Silverstar ~ Moon's Hand
+4	ABILITY:Silverstar Class Feature|AUTOMATIC|Silverstar ~ Tears of Selune
+5	ABILITY:Silverstar Class Feature|AUTOMATIC|Silverstar ~ Prophet's Sight
+6	ABILITY:Silverstar Class Feature|AUTOMATIC|Silverstar ~ Selunite Lycanthrope
+7	ABILITY:Silverstar Class Feature|AUTOMATIC|Silverstar ~ Moonshield
+9	ABILITY:Silverstar Class Feature|AUTOMATIC|Silverstar ~ Greater Moon's Hand
+10	ABILITY:Silverstar Class Feature|AUTOMATIC|Silverstar ~ Moonfire
+
