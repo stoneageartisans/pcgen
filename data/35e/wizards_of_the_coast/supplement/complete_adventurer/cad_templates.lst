@@ -6,3 +6,8 @@ First Level ~ Ninja	TYPE:First Level	TEMPLATE:CHOOSE:Funds - PC|Funds - NPC|Fund
 First Level ~ Scout	TYPE:First Level	TEMPLATE:CHOOSE:Funds - PC|Funds - NPC|Funds - None	PRECLASS:1,Scout=1	VISIBLE:NO	DESC:Specify initial starting funds for class Scout
 First Level ~ Spellthief	TYPE:First Level	TEMPLATE:CHOOSE:Funds - PC|Funds - NPC|Funds - None	PRECLASS:1,Spellthief=1	VISIBLE:NO	DESC:Specify initial starting funds for class Spellthief
 
+
+### Added by BigDoody on 10-08-2025
+
+# Oversized Two-Weapon Fighting for Dwarven Waraxe - Make Wield Category Light
+Oversized Two-Weapon Fighting for Dwarven Waraxe		OUTPUTNAME:Oversized Two-Weapon Fighting for Dwarven Waraxe						VISIBLE:YES					PREABILITY:1,CATEGORY=FEAT,Oversized Two-Weapon Fighting																											PREWEAPONPROF:1,Waraxe (Dwarven)																																	BONUS:WEAPONPROF=Waraxe (Dwarven)|WIELDCATEGORY|-1																													
