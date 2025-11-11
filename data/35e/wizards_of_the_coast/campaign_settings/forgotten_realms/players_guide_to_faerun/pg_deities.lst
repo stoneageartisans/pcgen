@@ -165,16 +165,16 @@ Yurtrus			DOMAINS:Death,Destruction,Evil,Orc,Suffering|PREALIGN:LE,TN,NE,CE				D
 #Cyrrollalee.MOD	DOMAINS:Community
 #Demogorgon.MOD	DOMAINS:Corruption,Demonic
 #Domiel.MOD		DOMAINS:Celestial
-#Eldath.MOD	DOMAINS:Community
+Eldath.MOD	DOMAINS:Community
 #Gargauth.MOD	DOMAINS:Corruption
 #Graz'zt.MOD	DOMAINS:Darkness,Darkness,Demonic
-#Hanali Celanil.MOD	DOMAINS:Pleasure
+Hanali Celanil.MOD	DOMAINS:Pleasure
 #Hathor.MOD	DOMAINS:Community
-#Horus-Re.MOD	DOMAINS:Glory
-#Ilmater.MOD	DOMAINS:Endurance
+Horus-Re.MOD	DOMAINS:Glory
+Ilmater.MOD	DOMAINS:Endurance
 #Kharash.MOD	DOMAINS:Wrath
-#Lathander.MOD	DOMAINS:Glory
-#Lliira.MOD	DOMAINS:Joy
+Lathander.MOD	DOMAINS:Glory
+Lliira.MOD	DOMAINS:Joy
 #Lolth.MOD	DOMAINS:Darkness,Darkness
 #Lolth.MOD	DOMAINS:Demonic
 #Loviatar.MOD	DOMAINS:Pain
@@ -183,7 +183,7 @@ Yurtrus			DOMAINS:Death,Destruction,Evil,Orc,Suffering|PREALIGN:LE,TN,NE,CE				D
 #Mammon.MOD	DOMAINS:Diabolic
 #Mask.MOD	DOMAINS:Darkness,Darkness
 #Mephistopheles.MOD	DOMAINS:Diabolic
-#Mielikki.MOD	DOMAINS:Fey
+Mielikki.MOD	DOMAINS:Fey
 #Nobanion.MOD	DOMAINS:Fey
 #Pistis Sophia.MOD	DOMAINS:Celestial
 #Rillifane Rallathil.MOD	DOMAINS:Fey
@@ -191,9 +191,9 @@ Yurtrus			DOMAINS:Death,Destruction,Evil,Orc,Suffering|PREALIGN:LE,TN,NE,CE				D
 #Shar.MOD	DOMAINS:Darkness,Darkness
 #Sharess.MOD	DOMAINS:Pleasure
 #Shargaas.MOD	DOMAINS:Darkness,Darkness
-#Sune.MOD	DOMAINS:Pleasure
+Sune.MOD	DOMAINS:Pleasure
 #Tiamat.MOD	DOMAINS:Greed
-#Tyr.MOD	DOMAINS:Wrath
+Tyr.MOD	DOMAINS:Wrath
 #Urdlen.MOD	DOMAINS:Greed
 #Yeenoghu.MOD	DOMAINS:Bestial,Demonic
 #Yurtrus.MOD	DOMAINS:Corruption
