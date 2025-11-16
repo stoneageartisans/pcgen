@@ -914,7 +914,7 @@ Vest of free movement			TYPE:BodySlot_Torso.Shirt.Fleet Warrior's Array			COST:1
 # Garb of the Hunting Cat
 Mask of the tiger				TYPE:BodySlot_Face.Facewear.Garb of the Hunting Cat		COST:4000	ABILITY:Special Ability|AUTOMATIC|Equip ~ Garb of the Hunting Cat		BONUS:VAR|GarbOfTheHuntingCatCount|1		SPROP:(8th) Gain Track (or +5 Survival); low-light vision
 Claw gloves					TYPE:BodySlot_Hands.Glove.Garb of the Hunting Cat		COST:5604	ABILITY:Special Ability|AUTOMATIC|Equip ~ Garb of the Hunting Cat		BONUS:VAR|GarbOfTheHuntingCatCount|1		SPROP:(10th) +1 punching daggers; two claw attacks on charge or Spring Attack
-Mantle of the predator			TYPE:BodySlot_Shoulders.Cape.Garb of the Hunting Cat		COST:8000	ABILITY:Special Ability|AUTOMATIC|Equip ~ Garb of the Hunting Cat		BONUS:VAR|GarbOfTheHuntingCatCount|1		SPROP:(11th) +5 on Hide and Move Silently; +1d6 against foes denied Dex bonus to AC
+Mantle of the predator			TYPE:BodySlot_Shoulders.Cape.Garb of the Hunting Cat		COST:8000		SOURCEPAGE:p.200		ABILITY:Special Ability|AUTOMATIC|Equip ~ Garb of the Hunting Cat		BONUS:VAR|GarbOfTheHuntingCatCount|1		BONUS:SKILL|Hide,Move Silently|5|TYPE=Competence		SPROP:(11th) +5 on Hide and Move Silently; +1d6 against foes denied Dex bonus to AC
 
 # Gharyn's Monastic Array
 Cobra straps				TYPE:BodySlot_Feet.Boot.Gharyn's Monastic Array			COST:1400	ABILITY:Special Ability|AUTOMATIC|Equip ~ Gharyn's Monastic Array		BONUS:VAR|GharynsMonasticArrayCount|1		SPROP:(5th) 1/day move 5 feet after charge
