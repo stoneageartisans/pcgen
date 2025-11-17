@@ -16,7 +16,7 @@ CATEGORY=Internal|Default.MOD	ABILITY:Internal|AUTOMATIC|Skill Synergy ~ Sense M
 CATEGORY=Internal|Default.MOD	ABILITY:Internal|AUTOMATIC|Skill Synergy ~ Survival|PRESKILL:1,Survival=5
 CATEGORY=Internal|Default.MOD	ABILITY:Internal|AUTOMATIC|Skill Synergy ~ Tumble|PRESKILL:1,Tumble=5
 
-Skill Synergy ~ Bluff						CATEGORY:Internal		BONUS:SKILL|Sleight of Hand,Diplomacy,Intimidate|SynergySkillBonus|TYPE=Synergy.STACK
+Skill Synergy ~ Bluff						CATEGORY:Internal		BONUS:SKILL|Diplomacy,Intimidate,Sleight of Hand|SynergySkillBonus|TYPE=Synergy.STACK
 Skill Synergy ~ Handle Animal					CATEGORY:Internal		BONUS:SKILL|Ride|SynergySkillBonus|TYPE=Synergy.STACK
 Skill Synergy ~ Jump						CATEGORY:Internal		BONUS:SKILL|Tumble|SynergySkillBonus|TYPE=Synergy.STACK
 Skill Synergy ~ Knowledge (Arcana)				CATEGORY:Internal		BONUS:SKILL|Spellcraft|SynergySkillBonus|TYPE=Synergy.STACK
